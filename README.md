@@ -1,5 +1,5 @@
 # 🛡️ Dalton Hunter  
-### Intelligence Analyst |  Researcher | Adversary Analysis
+### Intelligence Analyst Professional |  Researcher Enthusiast
 
 ---
 
