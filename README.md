@@ -8,13 +8,9 @@ Intelligence Analyst adapting to the evolving digital landscape and identifying 
 This portfolio highlights threat intelligence reporting, cyber threat research, and analytical projects focused on real-world adversaries.
 
 ## 📂 Threat Intelligence Reports
-🔗 [Lazarus Group](Adversary_Report_Lazarus_Group.pdf)
+🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf)
 
-Analysis of North Korean state-sponsored cyber operations, targeting trends, infrastructure, and associated tactics, techniques, and procedures (TTPs).
-
-🔗 [Scattered Spider](Adversary_Report_Scattered_Spider.pdf)
-
-Threat intelligence assessment covering social engineering operations, identity-focused intrusion methods, credential compromise activity, and targeting behavior.
+🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
 
 ## 🌐 Connect
 
