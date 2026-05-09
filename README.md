@@ -5,9 +5,9 @@
 
 ## 🚨 About Me
 
-Intelligence analyst focused on researching emerging threats, adversary operations, and cybercriminal activity. Experienced in producing structured intelligence assessments using open-source intelligence (OSINT), adversary research methodologies, and analytic tradecraft.
+Intelligence Analyst adapting to the evolving digital landscape and identifying emerging cyber threats. Experienced in producing structured reports using open-source intelligence (OSINT),deep/dark web, adversary research methodologies, and analytic tradecraft.
 
-This portfolio highlights threat intelligence reporting, cyber threat research, and analytical projects focused on real-world adversaries, intrusion trends, and evolving cyber risks.
+This portfolio highlights threat intelligence reporting, cyber threat research, and analytical projects focused on real-world adversaries.
 
 Passionate about translating complex threat activity into clear, actionable intelligence that supports security awareness and strategic decision-making.
 
@@ -26,14 +26,14 @@ Passionate about translating complex threat activity into clear, actionable inte
 
 ## 📂 Threat Intelligence Reports
 
-### 🇰🇵 Lazarus Group — DPRK Cyber Operations
+### 🎯 Lazarus Group — DPRK Cyber Operations
 Analysis of North Korean state-sponsored cyber operations, targeting trends, infrastructure, and associated tactics, techniques, and procedures (TTPs).
 
 🔗 [View Report](https://github.com/dalthunter/Threat-Intelligence-Reports/blob/main/Reports/Adversary_Report_Lazarus_Group.pdf)
 
 ---
 
-### 🎭 Scattered Spider — Social Engineering & Identity-Based Intrusions
+### 🕸️ Scattered Spider — Social Engineering & Identity-Based Intrusions
 Threat intelligence assessment covering social engineering operations, identity-focused intrusion methods, credential compromise activity, and targeting behavior.
 
 🔗 [View Report](https://github.com/dalthunter/Threat-Intelligence-Reports/blob/main/Reports/Adversary_Report_Scattered_Spider.pdf)
