@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dalton Hunter  
 <br/>
-Threat Intelligence Analyst | Cyber Threat Research | OSINT
+Intelligence Analyst Professional
 </h1>
 
 ## Executive Summary
