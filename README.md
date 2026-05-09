@@ -1,39 +1,60 @@
-<h1>Hi, I'm Dalton Hunter  
-<br/>
-Intelligence Analyst Professional
-</h1>
-
-## Executive Summary
-
-Cyber threat intelligence analyst focused on researching emerging threats, adversary operations, and cybercriminal activity. This repository contains structured intelligence assessments developed using open-source intelligence (OSINT), threat research methodologies, and analytic tradecraft.
-
-Reports are designed to support threat awareness, intelligence education, and strategic analysis.
+# 🛡️ Dalton Hunter  
+### Intelligence Analyst |  Researcher | Adversary Analysis
 
 ---
 
-## Intelligence Focus Areas
+## 🚨 About Me
+
+Intelligence analyst focused on researching emerging threats, adversary operations, and cybercriminal activity. Experienced in producing structured intelligence assessments using open-source intelligence (OSINT), adversary research methodologies, and analytic tradecraft.
+
+This portfolio highlights threat intelligence reporting, cyber threat research, and analytical projects focused on real-world adversaries, intrusion trends, and evolving cyber risks.
+
+Passionate about translating complex threat activity into clear, actionable intelligence that supports security awareness and strategic decision-making.
+
+---
+
+## 🔍 Core Focus Areas
 
 - Threat Actor Analysis
 - Cybercrime Research
-- TTP & MITRE ATT&CK Analysis
+- MITRE ATT&CK & TTP Analysis
 - Indicators of Compromise (IOCs)
 - Victimology & Targeting Trends
 - Dark Web Intelligence
-- Intelligence Reporting
 
 ---
 
-## Threat Intelligence Reports
+## 📂 Threat Intelligence Reports
 
-- [Lazarus Group — DPRK Cyber Operations](https://github.com/dalthunter/Threat-Intelligence-Reports/blob/main/Reports/Adversary_Report_Lazarus_Group.pdf)
+### 🇰🇵 Lazarus Group — DPRK Cyber Operations
+Analysis of North Korean state-sponsored cyber operations, targeting trends, infrastructure, and associated tactics, techniques, and procedures (TTPs).
 
-- [Scattered Spider — Social Engineering & Identity-Based Intrusions](https://github.com/dalthunter/Threat-Intelligence-Reports/blob/main/Reports/Adversary_Report_Scattered_Spider.pdf)
-
-Additional threat actor assessments and intelligence products will continue to expand over time.
+🔗 [View Report](https://github.com/dalthunter/Threat-Intelligence-Reports/blob/main/Reports/Adversary_Report_Lazarus_Group.pdf)
 
 ---
 
-## Connect
+### 🎭 Scattered Spider — Social Engineering & Identity-Based Intrusions
+Threat intelligence assessment covering social engineering operations, identity-focused intrusion methods, credential compromise activity, and targeting behavior.
 
-- [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
-- [GitHub](https://github.com/dalthunter)
+🔗 [View Report](https://github.com/dalthunter/Threat-Intelligence-Reports/blob/main/Reports/Adversary_Report_Scattered_Spider.pdf)
+
+---
+
+## 🧠 Professional Interests
+
+- Threat Intelligence Operations
+- Adversary Tracking
+- Security Research
+- Strategic Threat Assessment
+- Incident Response Support
+- Intelligence Analysis
+
+---
+
+## 🌐 Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
+
+---
+
+⭐ Additional intelligence reports, adversary research, and cyber threat analysis projects will continue to expand over time.
