@@ -12,8 +12,7 @@ This portfolio highlights threat intelligence reporting, cyber threat research, 
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
 
-## 🌐 Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
-
 ⭐ Additional intelligence reports, adversary research, and cyber threat analysis projects will continue to expand over time.
+
+## 🌐 Connect
+💼 [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
