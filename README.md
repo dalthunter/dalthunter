@@ -29,14 +29,14 @@ Passionate about translating complex threat activity into clear, actionable inte
 ### Lazarus Group — DPRK Cyber Operations
 Analysis of North Korean state-sponsored cyber operations, targeting trends, infrastructure, and associated tactics, techniques, and procedures (TTPs).
 
-🔗 [View Report](./reports/Adversary_Report_Lazarus_Group.pdf)
+🔗 [View Report](Adversary_Report_Scattered_Spider.pdf)
 
 ---
 
 ### Scattered Spider — Social Engineering & Identity-Based Intrusions
 Threat intelligence assessment covering social engineering operations, identity-focused intrusion methods, credential compromise activity, and targeting behavior.
 
-🔗 [View Report](./Adversary_Report_Lazarus_Group.pdf)
+🔗 [View Report](Adversary_Report_Scattered_Spider.pdf)
 
 ---
 
