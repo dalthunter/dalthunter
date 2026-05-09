@@ -18,8 +18,6 @@ Analysis of North Korean state-sponsored cyber operations, targeting trends, inf
 
 🔗 [View Report](Adversary_Report_Lazarus_Group.pdf)
 
----
-
 ### Scattered Spider — Social Engineering & Identity-Based Intrusions
 Threat intelligence assessment covering social engineering operations, identity-focused intrusion methods, credential compromise activity, and targeting behavior.
 
