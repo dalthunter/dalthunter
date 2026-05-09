@@ -29,7 +29,7 @@ Passionate about translating complex threat activity into clear, actionable inte
 ### Lazarus Group — DPRK Cyber Operations
 Analysis of North Korean state-sponsored cyber operations, targeting trends, infrastructure, and associated tactics, techniques, and procedures (TTPs).
 
-🔗 [View Report](https://github.com/dalthunter/Threat-Intelligence-Reports/blob/main/Reports/Adversary_Report_Lazarus_Group.pdf)
+🔗 [View Report](reports/Adversary_Report_Lazarus_Group.pdf)
 
 ---
 
