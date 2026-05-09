@@ -11,17 +11,6 @@ This portfolio highlights threat intelligence reporting, cyber threat research, 
 
 ---
 
-## 🔍 Core Focus Areas
-
-- Threat Actor Analysis
-- Cybercrime Research
-- MITRE ATT&CK & TTP Analysis
-- Indicators of Compromise (IOCs)
-- Victimology & Targeting Trends
-- Dark Web Intelligence
-
----
-
 ## 📂 Threat Intelligence Reports
 
 ### Lazarus Group — DPRK Cyber Operations
