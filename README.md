@@ -1,78 +1,39 @@
 <h1>Hi, I'm Dalton Hunter  
 <br/>
-Intelligence Analyst Professional | Threat Research | Cybercrime
+Threat Intelligence Analyst | Cyber Threat Research | OSINT
 </h1>
 
 ## Executive Summary
 
-Intelligence analyst focused on identifying, analyzing, and communicating emerging cyber threats across the evolving digital landscape. This repository contains structured cyber threat intelligence assessments developed using analytic tradecraft, adversary research methodologies, and open-source intelligence (OSINT) techniques.
+Cyber threat intelligence analyst focused on researching emerging threats, adversary operations, and cybercriminal activity. This repository contains structured intelligence assessments developed using open-source intelligence (OSINT), threat research methodologies, and analytic tradecraft.
 
-The objective of these reports is to provide clear, evidence-based intelligence products that support threat awareness, security operations, and strategic decision-making.
+Reports are designed to support threat awareness, intelligence education, and strategic analysis.
 
-Research areas include:
+---
 
-- Threat Actor Profiling
-- Adversary Infrastructure Analysis
-- Tactics, Techniques, & Procedures (TTPs)
-- Victimology & Targeting Trends
+## Intelligence Focus Areas
+
+- Threat Actor Analysis
+- Cybercrime Research
+- TTP & MITRE ATT&CK Analysis
 - Indicators of Compromise (IOCs)
-- Intelligence Reporting & Analysis
-- Dark Web & Cybercriminal Ecosystems
-- Geopolitical Cyber Activity
-- Operational Risk Assessment
+- Victimology & Targeting Trends
+- Dark Web Intelligence
+- Intelligence Reporting
 
 ---
 
-## Intelligence Methodology
+## Threat Intelligence Reports
 
-Each intelligence product follows a structured analytic format commonly used within professional cyber threat intelligence environments.
+- [Lazarus Group — DPRK Cyber Operations](https://github.com/dalthunter/Threat-Intelligence-Reports/blob/main/Reports/Adversary_Report_Lazarus_Group.pdf)
 
-### Report Structure
+- [Scattered Spider — Social Engineering & Identity-Based Intrusions](https://github.com/dalthunter/Threat-Intelligence-Reports/blob/main/Reports/Adversary_Report_Scattered_Spider.pdf)
 
-- **Section 1 — Threat Actor Background**
-  - Organizational overview
-  - Historical activity
-  - Operational objectives
-  - Attribution assessments
-
-- **Section 2 — Targeting Patterns & Victimology**
-  - Industry targeting
-  - Geographic focus
-  - Victim selection trends
-  - Campaign analysis
-
-- **Section 3 — Tactics, Techniques, & Procedures (TTPs)**
-  - Initial access methods
-  - Persistence mechanisms
-  - Credential theft activity
-  - Malware/tooling usage
-  - MITRE ATT&CK mapping
-
-- **Section 4 — Indicators of Compromise (IOCs)**
-  - Domains
-  - IP addresses
-  - File hashes
-  - Infrastructure indicators
-  - Detection opportunities
-
-- **Section 5 — Analytic Assessment**
-  - Threat severity assessment
-  - Operational capability evaluation
-  - Intelligence confidence levels
-  - Strategic outlook
-
----
-
-### Threat Actor Assessments
-
-- **Lazarus Group** — DPRK-Linked Cyber Operations & Financially Motivated Campaigns
-- **Scattered Spider** — Social Engineering Operations & Identity-Based Intrusions
-
-Additional intelligence products and threat assessments will continue to expand as research develops.
+Additional threat actor assessments and intelligence products will continue to expand over time.
 
 ---
 
 ## Connect
 
-- GitHub: your-link-here
-- LinkedIn: your-link-here
+- [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
+- [GitHub](https://github.com/dalthunter)
