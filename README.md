@@ -9,8 +9,6 @@ Intelligence Analyst adapting to the evolving digital landscape and identifying 
 
 This portfolio highlights threat intelligence reporting, cyber threat research, and analytical projects focused on real-world adversaries.
 
-Passionate about translating complex threat activity into clear, actionable intelligence that supports security awareness and strategic decision-making.
-
 ---
 
 ## 🔍 Core Focus Areas
