@@ -19,6 +19,6 @@ This portfolio highlights cyber threat intelligence reporting, adversary researc
 
 ---
 
-## 🌐 Connect With Me
+## 🤳 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
