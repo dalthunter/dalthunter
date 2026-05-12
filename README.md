@@ -9,13 +9,17 @@ This portfolio highlights threat intelligence reporting, adversary research, and
 
 ## 📂 Projects
 🔗 [Global Threat Intelligence Dashboard](https://dalthunter.github.io/Threat-Dashboard/)
+
 Additional intelligence reports and adversary research will continue to expand over time.
 
 ---
 
 ## 📂 Threat Intelligence Reports
+
 🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf)
+
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
+
 Additional intelligence reports and adversary research will continue to expand over time.
 
 ---
