@@ -7,6 +7,10 @@ Intelligence analyst focused on cyber threats, adversary TTPs, malware activity,
 
 This portfolio highlights threat intelligence reporting, adversary research, and intelligence-driven assessments.
 
+## 📂 Projects
+
+🔗 [Global Threat Intelligence Dashboard](https://dalthunter.github.io/Threat-Dashboard/)
+
 ---
 
 ## 📂 Threat Intelligence Reports
