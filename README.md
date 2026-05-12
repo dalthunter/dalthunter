@@ -3,9 +3,9 @@
 
 ## 👨‍💻 About Me
 
-Intelligence analyst focused on cyber threats, adversary TTPs, malware activity, social engineering, indicators of compromise (IOCs), and advanced persistent threats (APTs). Experienced in adversary profiling, cyber threat research, and MITRE ATT&CK mapping to support intelligence analysis and reporting.
+Intelligence analyst focused on cyber threats, adversary TTPs, malware activity, social engineering, indicators of compromise (IOCs), and advanced persistent threats (APTs). Experienced in cyber threat research, and MITRE ATT&CK mapping to support intelligence analysis and reporting.
 
-This portfolio highlights cyber threat intelligence reporting, adversary research, and intelligence-driven assessments focused on real-world threat actors and emerging cyber risks. Content is intended for educational, threat awareness, and strategic security purposes.
+This portfolio highlights threat intelligence reporting, adversary research, and intelligence-driven assessments.
 
 ---
 
