@@ -10,7 +10,7 @@ This portfolio highlights threat intelligence reporting, adversary research, and
 ## 📂 Projects
 🔗 [Global Threat Intelligence Dashboard](https://dalthunter.github.io/Threat-Dashboard/)
 
-Additional intelligence reports and adversary research will continue to expand over time.
+Additional projects and adversary research will continue to expand over time.
 
 ---
 
