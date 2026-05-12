@@ -19,7 +19,7 @@ This portfolio highlights threat intelligence reporting, adversary research, and
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
 
-🔗 Additional intelligence reports, adversary research, and cyber threat analysis projects will continue to expand over time.
+Additional intelligence reports, adversary research, and cyber threat analysis projects will continue to expand over time.
 
 ---
 
