@@ -1,5 +1,4 @@
 # Dalton Hunter  
-### Intelligence Analyst Professional 
 
 ## About Me
 
