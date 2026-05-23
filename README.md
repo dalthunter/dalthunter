@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dalton Hunter  
 ### Intelligence Analyst Professional 
 
-## 👨‍💻 About Me
+## About Me
 
 Intelligence analyst focused on cyber threats, TTPs, IOCs, APTs, Dark Web, and OSINT research.
 
