@@ -26,4 +26,4 @@ Additional intelligence reports and adversary research will continue to expand o
 
 ## 📲 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
+🔵 [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
