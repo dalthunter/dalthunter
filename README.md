@@ -28,3 +28,21 @@ Additional intelligence reports and adversary research will continue to expand o
 ## 📲 Connect With Me
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16">  [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
+
+## Research & Intelligence References
+
+Research and analytical methodologies within this portfolio are informed by publicly available threat intelligence reporting, adversary tracking frameworks, and cybersecurity research published by industry-leading organizations, including:
+
+- MITRE ATT&CK
+- CrowdStrike Intelligence
+- Mandiant / Google Threat Intelligence
+- Recorded Future
+- Microsoft Threat Intelligence
+- CISA
+- Palo Alto Networks Unit 42
+- SentinelOne
+- Secureworks Counter Threat Unit (CTU)
+- IBM X-Force
+- Cisco Talos Intelligence Group
+
+All analysis and reporting are independently developed for educational and portfolio purposes using publicly available Open-Source Intelligence (OSINT) sources.
