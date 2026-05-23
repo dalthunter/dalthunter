@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dalton Hunter  
+# Dalton Hunter  
 ### Intelligence Analyst Professional 
 
 ## About Me
