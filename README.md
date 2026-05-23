@@ -31,18 +31,4 @@ Additional intelligence reports and adversary research will continue to expand o
 
 ## Research & Intelligence References
 
-Research and analytical methodologies within this portfolio are informed by publicly available threat intelligence reporting, adversary tracking frameworks, and cybersecurity research published by industry-leading organizations, including:
-
-- MITRE ATT&CK
-- CrowdStrike Intelligence
-- Mandiant / Google Threat Intelligence
-- Recorded Future
-- Microsoft Threat Intelligence
-- CISA
-- Palo Alto Networks Unit 42
-- SentinelOne
-- Secureworks Counter Threat Unit (CTU)
-- IBM X-Force
-- Cisco Talos Intelligence Group
-
-All analysis and reporting are independently developed for educational and portfolio purposes using publicly available Open-Source Intelligence (OSINT) sources.
+This portfolio incorporates publicly available threat intelligence reporting, adversary research methodologies, and ATT&CK mapping concepts informed by organizations including MITRE ATT&CK, CrowdStrike Intelligence, Recorded Future, Mandiant, Microsoft Threat Intelligence, Palo Alto Networks Unit 42, Cisco Talos, CISA, The DFIR Report, Proofpoint Threat Research, and other reputable Open-Source Intelligence (OSINT) resources.
