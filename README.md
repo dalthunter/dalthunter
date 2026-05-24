@@ -19,7 +19,7 @@ Additional projects and adversary research will continue to expand over time.
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
 
-Note: Figure hyperlinks may not work in GitHub’s PDF preview. For full clickable navigation, “Download raw file” and open it in a local viewer.
+Note: Figure hyperlinks may not work in GitHub’s PDF preview. For full clickable navigation, “Download raw file” and open the report in a local viewer.
 
 Additional intelligence reports and adversary research will continue to expand over time.
 
