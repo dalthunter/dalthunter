@@ -2,7 +2,7 @@
 
 ## About Me
 
-Intelligence specializing in cyber threats, APTs, TTPs, IOCs, Dark Web, and OSINT techniques.
+Intelligence Analyst specializing in cyber threats, APTs, TTPs, IOCs, Dark Web, and OSINT techniques.
 
 This portfolio highlights threat reporting, adversary research, and intelligence assessments.
 
