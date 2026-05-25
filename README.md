@@ -19,9 +19,9 @@ Additional projects and adversary research will continue to expand over time.
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
 
-Note: Select “Download raw file” for active hyperlink figures within the PDF.
+Note: Select “Download raw file” for active PDF hyperlinks and figure navigation.
 
-Additional intelligence reports and adversary research will continue to expand over time.
+Additional intelligence reports and adversary research will be expanded over time.
 
 ---
 
