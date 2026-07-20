@@ -2,18 +2,18 @@
 
 ## About Me
 
-Intelligence Analyst specializing in cyber threats, APTs, TTPs, IOCs, Dark Web, and OSINT techniques.
+Intelligence Analyst specializing in cyber threats, APTs, TTPs, IOCs, Dark Web, and OSINT research.
 
-This portfolio highlights threat reporting, adversary research, and intelligence assessments.
+This portfolio highlights threat reporting, adversary research, and Intelligence reporting.
 
-## 📂 Projects
+## 📂 Website Projects
 🔗 [Global Threat Intelligence Dashboard](https://dalthunter.github.io/Threat-Dashboard/)
 
 Additional projects and adversary research will continue to expand over time.
 
 ---
 
-## 📂 Threat Intelligence Reports
+## 📂 CTI Reports
 
 🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf)
 
