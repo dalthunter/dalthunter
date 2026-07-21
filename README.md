@@ -27,6 +27,6 @@ Additional intelligence reports and adversary research will be expanded over tim
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16">  [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
 
-## Research References
+## References
 
 This portfolio incorporates publicly available threat intelligence reporting, adversary research methodologies informed by organizations including MITRE ATT&CK, CrowdStrike, Recorded Future, Mandiant, Microsoft Threat Intelligence, Palo Alto Networks Unit 42, Cisco Talos, CISA, The DFIR Report, Proofpoint Threat Research, and other reputable Open-Source Intelligence (OSINT) resources.
