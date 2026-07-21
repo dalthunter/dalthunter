@@ -4,8 +4,6 @@
 
 Intelligence Analyst specializing in cyber threats, APTs, TTPs, IOCs, Dark Web, and OSINT research.
 
-This portfolio highlights threat reporting, adversary research, and Intelligence reporting.
-
 ## 📂 Website Projects
 🔗 [Global Threat Intelligence Dashboard](https://dalthunter.github.io/Threat-Dashboard/)
 
