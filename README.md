@@ -7,7 +7,7 @@ Intelligence Analyst specializing in cyber threats, APTs, TTPs, IOCs, Dark Web, 
 ## 📂 Website Projects
 🔗 [Global Threat Intelligence Dashboard](https://dalthunter.github.io/Threat-Dashboard/)
 
-Additional projects and adversary research will continue to expand over time.
+Additional website projects will continue to expand over time.
 
 ---
 
@@ -17,9 +17,9 @@ Additional projects and adversary research will continue to expand over time.
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
 
-Note: Select “Download raw file” for active PDF hyperlinks and figure navigation.
+Note: “Download raw file” for hyperlinks and figure navigation.
 
-Additional intelligence reports and adversary research will be expanded over time.
+Additional CTI reports will continue to expanded over time.
 
 ---
 
