@@ -19,7 +19,7 @@ Additional website projects will continue to expand over time.
 
 Note: “Download raw file” for hyperlinks and figure navigation.
 
-Additional CTI reports will continue to expanded over time.
+Additional CTI reports will continue to expand over time.
 
 ---
 
