@@ -29,4 +29,4 @@ Additional CTI reports will continue to expand over time.
 
 ## References
 
-This portfolio incorporates publicly available threat intelligence reporting, adversary research methodologies informed by organizations including MITRE ATT&CK, CrowdStrike, Recorded Future, Mandiant, Microsoft Threat Intelligence, Palo Alto Networks Unit 42, Cisco Talos, CISA, The DFIR Report, Proofpoint Threat Research, and other reputable Open-Source Intelligence (OSINT) resources.
+This portfolio incorporates publicly available threat intelligence reporting, adversary research methodologies informed by organizations including MITRE ATT&CK, CrowdStrike, Recorded Future, Mandiant, Microsoft Threat Intelligence, Palo Alto Networks Unit 42, Cisco Talos, CISA, The DFIR Report, Proofpoint Threat Research, and other reputable sources.
