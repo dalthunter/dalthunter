@@ -1,9 +1,3 @@
-# Dalton Hunter  
-
-## About Me
-
-Intelligence Analyst specializing in cyber threats, dark web, OSINT research.
-
 ## 📂 Website Projects
 🔗 [Global Threat Intelligence](https://dalthunter.github.io/Threat-Dashboard/)
 
