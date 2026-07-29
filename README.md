@@ -10,6 +10,6 @@ Additional CTI reports will continue to expand over time.
 ---
 
 ## 📂 My Projects
-🔗 [Global Threat Actors](https://dalthunter.github.io/Threat-Dashboard/)
+🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/Threat-Dashboard/)
 
 Additional projects will continue to expand over time.
