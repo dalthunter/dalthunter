@@ -5,8 +5,6 @@
 
 Note: “Download raw file” for hyperlinks and figure navigation.
 
-Additional CTI reports will continue to expand over time.
-
 ---
 
 ## 📂 My Projects
