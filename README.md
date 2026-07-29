@@ -1,10 +1,3 @@
-## 📂 Website Projects
-🔗 [Global Threat Intelligence](https://dalthunter.github.io/Threat-Dashboard/)
-
-Additional projects will continue to expand over time.
-
----
-
 ## 📂 CTI Reports
 
 🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf)
@@ -17,6 +10,12 @@ Additional CTI reports will continue to expand over time.
 
 ---
 
-## References
+## 📂 Website Projects
+🔗 [Global Threat Intelligence](https://dalthunter.github.io/Threat-Dashboard/)
 
+Additional projects will continue to expand over time.
+
+---
+
+## References
 MITRE ATT&CK, CrowdStrike, Recorded Future, Mandiant, Microsoft Threat Intelligence, Palo Alto Networks Unit 42, Cisco Talos, CISA, The DFIR Report, Proofpoint Threat Research, and other reputable sources
