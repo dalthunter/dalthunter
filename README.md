@@ -8,6 +8,6 @@ Note: “Download raw file” for hyperlinks and figure navigation.
 ---
 
 ## 📂 My Projects
-🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/Threat-Dashboard/)
+🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/Actor-Index/)
 
 Additional projects will continue to expand over time.
