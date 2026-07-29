@@ -17,10 +17,6 @@ Additional CTI reports will continue to expand over time.
 
 ---
 
-## 📲 Connect With Me
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16">  [LinkedIn](https://www.linkedin.com/in/dalton-hunter/)
-
 ## References
 
 MITRE ATT&CK, CrowdStrike, Recorded Future, Mandiant, Microsoft Threat Intelligence, Palo Alto Networks Unit 42, Cisco Talos, CISA, The DFIR Report, Proofpoint Threat Research, and other reputable sources
