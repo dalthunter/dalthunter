@@ -9,7 +9,7 @@ Additional CTI reports will continue to expand over time.
 
 ---
 
-## 📂 Website Projects
+## 📂 My Projects
 🔗 [Global Threat Intelligence](https://dalthunter.github.io/Threat-Dashboard/)
 
 Additional projects will continue to expand over time.
