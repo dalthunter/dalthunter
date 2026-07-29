@@ -13,8 +13,3 @@ Additional CTI reports will continue to expand over time.
 🔗 [Global Threat Intelligence](https://dalthunter.github.io/Threat-Dashboard/)
 
 Additional projects will continue to expand over time.
-
----
-
-## References
-MITRE ATT&CK, CrowdStrike, Recorded Future, Mandiant, Microsoft Threat Intelligence, CISA, and other reputable sources
