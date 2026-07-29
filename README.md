@@ -17,4 +17,4 @@ Additional projects will continue to expand over time.
 ---
 
 ## References
-MITRE ATT&CK, CrowdStrike, Recorded Future, Mandiant, Microsoft Threat Intelligence, Palo Alto Networks Unit 42, Cisco Talos, CISA, The DFIR Report, Proofpoint Threat Research, and other reputable sources
+MITRE ATT&CK, CrowdStrike, Recorded Future, Mandiant, Microsoft Threat Intelligence, CISA, and other reputable sources
