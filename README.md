@@ -3,12 +3,14 @@
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
 Note: “Download raw file” for hyperlinks and figure navigation.
+
 Additional CTI reports will continue to expand over time.
 
 ---
 
 ## 📂 Website Projects
 🔗 [Global Threat Intelligence](https://dalthunter.github.io/Threat-Dashboard/)
+
 Additional projects will continue to expand over time.
 
 ---
