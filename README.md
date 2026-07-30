@@ -3,7 +3,7 @@
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
 
-Note: “Download raw file” for hyperlinks and figure navigation.
+Note: “Download raw file” for hyperlink figure navigation.
 
 ---
 
