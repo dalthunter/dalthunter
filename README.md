@@ -10,4 +10,4 @@ Note: “Download raw file” for hyperlink figure navigation.
 ## 📂 My Projects
 🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/Cyber-Threat-actor-Index/)
 
-🔗 [Cyber Incident Archive](https://dalthunter.github.io/Cyber-Threat-actor-Index/)
+🔗 [Cyber Incident Archive](https://cyber-incident-archive.netlify.app)
