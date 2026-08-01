@@ -8,7 +8,7 @@ Note: “Download raw file” for hyperlink figure navigation.
 ---
 
 ## 📂 My Projects
-🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) ➔ What happened.
+🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) ➔ What attacks happened.
 
 🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/Cyber-Threat-actor-Index/) ➔ Who is behind attacks.
 
