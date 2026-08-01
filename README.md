@@ -8,6 +8,8 @@ Note: “Download raw file” for hyperlink figure navigation.
 ---
 
 ## 📂 My Projects
-🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/Cyber-Threat-actor-Index/)
+🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) → What happened.
 
-🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/)
+🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/Cyber-Threat-actor-Index/) → Who is behind attacks.
+
+🔗 [CTI Knowledge Base](https://dalthunter.github.io/Cyber-Threat-actor-Index/)  → How attacks work and the terminology analysts use.
