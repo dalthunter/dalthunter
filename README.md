@@ -5,6 +5,8 @@
 
 Note: “Download raw file” for hyperlink figure navigation.
 
+Additional reports will continue to expand over time.
+
 ---
 
 ## 📂 Projects
@@ -13,3 +15,5 @@ Note: “Download raw file” for hyperlink figure navigation.
 🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/)  ➔ Who is behind the attacks.
 
 🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/)  ➔ How attacks work and the terminology analysts use.
+
+Additional projects will continue to expand over time.
