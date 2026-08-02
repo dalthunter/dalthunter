@@ -15,9 +15,7 @@ Additional reports will continue to expand over time.
 🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/)  ➔ Who is behind these attacks.
 
 🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/)  ➔ How cyber attacks occur from beginning to end.
-he terminology analysts use.
 
 🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/)  ➔ The terminology professionals use.
-he terminology analysts use.
 
 Additional projects will continue to expand over time.
