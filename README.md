@@ -16,7 +16,7 @@ A practical guide to understanding CVEs, malware, and indicators of compromise (
 
 🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/)
 
-An interactive timeline exploring significant cyber incidents, their impact, and why they mattered.
+An interactive timeline exploring significant cyber attacks, their impact, and why they mattered.
 
 🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/)
 
