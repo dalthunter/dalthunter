@@ -9,7 +9,7 @@ Additional reports will continue to expand over time.
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/)  ➔ A practical guide to understanding CVEs, malware, and indicators of compromise (IOCs) using real-world examples.
 
 🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/)  ➔ An interactive timeline exploring significant cyber incidents, their impact, and why they mattered.
