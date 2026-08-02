@@ -1,4 +1,4 @@
-## 📂 Reports
+## 📂 My Reports
 🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf)
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
@@ -7,7 +7,7 @@ Note: “Download raw file” for hyperlink figure navigation.
 
 ---
 
-## 📂 Projects
+## 📂 My Projects
 🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/)  ➔ What attacks happened.
 
 🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/)  ➔ Who is behind the attacks.
