@@ -18,4 +18,4 @@ Additional reports will continue to expand over time.
 
 🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/)  ➔ The terminology professionals use.
 
-Projects will continue to expand over time.
+Additional projects will continue to expand over time.
