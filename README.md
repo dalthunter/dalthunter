@@ -10,7 +10,7 @@ Note: “Download raw file” for hyperlink figure navigation.
 ## 📂 Featured Projects
 🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/)
 
-A practical guide to understanding CVEs, malware, and indicators of compromise (IOCs) using real-world examples.
+A practical guide to understanding CVEs, malware, and IOCs using real-world examples.
 
 🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/)
 
