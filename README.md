@@ -1,6 +1,3 @@
-## 👨‍💻 About Me
-Intelligence professional specializing in Open-Source Intelligence (OSINT), dark web, and cyber threat research. Skilled in collecting and analyzing information from diverse online sources to identify emerging threats and risks. Stays current with the evolving digital landscape to support informed security decisions.
-
 ## 📂 Reports
 🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf)
 
