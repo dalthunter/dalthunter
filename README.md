@@ -1,11 +1,13 @@
 ## 📂 Reports
-🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf)
+🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf) 
+
+Intelligence report on North Korea's most prolific cyber threat group.
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
 
-Note: “Download raw file” for hyperlink figure navigation.
+Intelligence report on one of the most active cybercriminal groups.
 
-Additional reports will continue to expand over time.
+Note: “Download raw file” for hyperlink figure navigation.
 
 ---
 
