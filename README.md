@@ -8,7 +8,7 @@ Note: Download the raw PDF to enable internal hyperlink navigation
 ---
 
 ## 📂 Featured Projects
-🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/) ➜ How do attacks work ?
+🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/) ➜ How cyber attacks work through CVEs, malware, and IOCs.
 
 🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) ➜ What attacks have happened ?
 
