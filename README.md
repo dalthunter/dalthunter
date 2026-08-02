@@ -24,6 +24,6 @@ Profiles of prominent cyber threat actors, their operations, and their known tra
 
 🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/)
 
-A plain-English guide to the concepts, terminology, and workflows used in Cyber Threat Intelligence.
+A guide to the concepts, terminology, and workflows used in Cyber Threat Intelligence.
 
 Additional projects will continue to expand over time.
