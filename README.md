@@ -10,10 +10,14 @@ Additional reports will continue to expand over time.
 ---
 
 ## 📂 Projects
-🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/)  ➔ What attacks happened.
+🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/)  ➔ What attacks have happened in history.
 
-🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/)  ➔ Who is behind the attacks.
+🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/)  ➔ Who is behind these attacks.
 
-🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/)  ➔ How attacks work and the terminology analysts use.
+🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/)  ➔ How cyber attacks occur from beginning to end.
+he terminology analysts use.
+
+🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/)  ➔ The terminology professionals use.
+he terminology analysts use.
 
 Additional projects will continue to expand over time.
