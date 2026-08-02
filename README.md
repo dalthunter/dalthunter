@@ -8,18 +8,10 @@ Note: “Download raw file” for hyperlink figure navigation.
 ---
 
 ## 📂 Featured Projects
-🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/)
+🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/) How do attacks work ?
 
-A practical guide to understanding CVEs, malware, and IOCs using real-world examples.
+🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) What attacks have happened ?
 
-🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/)
+🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/) Who conducts these attacks ?
 
-An interactive timeline exploring significant cyber attacks, their impact, and why they mattered.
-
-🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/)
-
-Profiles of prominent cyber threat actors, their operations, and their known tradecraft.
-
-🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/)
-
-A guide to the concepts, terminology, and workflows used in Cyber Threat Intelligence.
+🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/) What concepts do analysts use ?
