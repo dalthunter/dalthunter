@@ -10,7 +10,7 @@ Note: Download the raw PDF to enable internal hyperlink navigation
 ## 📂 Featured Projects
 🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/) ➜ How cyber attacks work ?
 
-🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) ➜ What attacks have happened ?
+🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) ➜ What attacks have happened in history ?
 
 🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/) ➜ Who conducts these attacks ?
 
