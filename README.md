@@ -1,4 +1,4 @@
-## 📂 Reports
+## 📂 Intelligence Reports
 🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf) 
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf)
