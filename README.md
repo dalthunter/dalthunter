@@ -8,10 +8,10 @@ Note: “Download raw file” for hyperlink figure navigation.
 ---
 
 ## 📂 Featured Projects
-🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/) How do attacks work ?
+🔗 [CVEs, Malware, IOCs](https://dalthunter.github.io/cti-knowledge-base/#/) ➜ How do attacks work ?
 
-🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) What attacks have happened ?
+🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) ➜ What attacks have happened ?
 
-🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/) Who conducts these attacks ?
+🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/) ➜ Who conducts these attacks ?
 
-🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/) What concepts do analysts use ?
+🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/) ➜ What concepts do analysts use ?
