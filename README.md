@@ -13,5 +13,3 @@ Note: Download the raw PDF to enable internal hyperlink navigation
 🔗 [Cyber Attack Archive](https://dalthunter.github.io/cyber-attack-archive/) ➜ What attacks have happened ?
 
 🔗 [Cyber Threat Actor Index](https://dalthunter.github.io/cyber-threat-actors/) ➜ Who conducts these attacks ?
-
-🔗 [CTI Knowledge Base](https://dalthunter.github.io/cti-knowledge-base/#/) ➜ What concepts do analysts use ?
