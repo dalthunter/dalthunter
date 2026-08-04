@@ -12,4 +12,4 @@
 
 🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf) ➜ English group active in the U.S. and U.K.
 
-Note: Download the raw PDF to enable internal hyperlink navigation
+Note: Download the raw PDF to enable hyperlink navigation
