@@ -2,7 +2,9 @@
 ## 📂 Intelligence Reports
 🔗 [The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ Ransomware-as-a-Service
 
-🔗 [Scattered Spider](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ 
+🔗 [Scattered Spider](https://dalthunter.github.io/intel-reports/gentlemen/) ➜
+
+🔗 [ShinyHunters](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ 
 
 ---
 
