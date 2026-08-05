@@ -1,6 +1,6 @@
 
 ## 📂 Intelligence Reports
-🔗 [The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ 
+🔗 [The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ Ransomware-as-a-Service
 
 ---
 
