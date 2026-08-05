@@ -1,8 +1,6 @@
 
 ## 📂 Intelligence Reports
-🔗 [Lazarus Group Report](Adversary_Report_Lazarus_Group.pdf) ➜ North Korean state-sponsored threat actor.
-
-🔗 [Scattered Spider Report](Adversary_Report_Scattered_Spider.pdf) ➜ English group active in the U.S. and U.K.
+🔗 [The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ 
 
 ---
 
