@@ -1,10 +1,10 @@
 
 ## 📂 Intelligence Reports
-🔗 [The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ Ransomware-as-a-Service
+🔗 [The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ Ransomware-as-a-Service (RaaS)
 
-🔗 [Scattered Spider](https://dalthunter.github.io/intel-reports/gentlemen/) ➜
+🔗 [Scattered Spider](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ Identity-Based Intrusions & Social Engineering
 
-🔗 [ShinyHunters](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ 
+🔗 [ShinyHunters](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ Data Extortion & Cloud Intrusions
 
 ---
 
