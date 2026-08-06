@@ -4,7 +4,7 @@
 
 🔗 [Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/) ➜ Social Engineering & Identity Attacks
 
-🔗 [ShinyHunters](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ Data Extortion & Cloud Intrusions
+🔗 [ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/) ➜ Data Extortion & Cloud Intrusions
 
 ---
 
