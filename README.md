@@ -14,6 +14,8 @@
 
 🔗 [Volt Typhoon](https://dalthunter.github.io/intel-reports/volt-typhoon/) ➜ Critical Infrastructure & Living-off-the-Land
 
+🔗 [TraderTraitor](https://dalthunter.github.io/intel-reports/tradertraitor/) ➜ Cryptocurrency Theft & Supply Chain Attacks
+
 🔗 [Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/) ➜ Callback Phishing & Data Extortion
 
 ---
