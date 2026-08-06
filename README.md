@@ -8,6 +8,8 @@
 
 🔗 [UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/) ➜ Cloud Identity & Voice Phishing (Vishing)
 
+🔗 [FIN7](https://dalthunter.github.io/intel-reports/fin7/) ➜ Financial Cybercrime & Enterprise Intrusions
+
 🔗 [Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/) ➜ Callback Phishing & Data Extortion
 
 ---
