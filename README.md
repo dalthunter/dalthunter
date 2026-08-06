@@ -6,9 +6,11 @@
 
 🔗 [ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/) ➜ Data Extortion & Cloud Intrusions
 
+🔗 [FIN7](https://dalthunter.github.io/intel-reports/fin7/) ➜ Financial Cybercrime & Enterprise Intrusions
+
 🔗 [UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/) ➜ Cloud Identity & Voice Phishing (Vishing)
 
-🔗 [FIN7](https://dalthunter.github.io/intel-reports/fin7/) ➜ Financial Cybercrime & Enterprise Intrusions
+🔗 [Volt Typhoon](https://dalthunter.github.io/intel-reports/volt-typhoon/) ➜ Critical Infrastructure & Living-off-the-Land
 
 🔗 [Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/) ➜ Callback Phishing & Data Extortion
 
