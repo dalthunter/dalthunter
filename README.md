@@ -10,6 +10,8 @@
 
 🔗 [UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/) ➜ Cloud Identity & Voice Phishing (Vishing)
 
+🔗 [Lazarus Group](https://dalthunter.github.io/intel-reports/lazarus-group/) ➜ Nation-State Cyber Operations & Financial Theft
+
 🔗 [Volt Typhoon](https://dalthunter.github.io/intel-reports/volt-typhoon/) ➜ Critical Infrastructure & Living-off-the-Land
 
 🔗 [Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/) ➜ Callback Phishing & Data Extortion
