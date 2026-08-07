@@ -20,8 +20,7 @@
 
 ***
 
-### 🔎 Reconnaissance — [TA0043](https://attack.mitre.org/tactics/TA0043/)
-Search websites, social media, employee information, domains, IPs, exposed systems, and other public information.
+### 🔎 Reconnaissance — [TA0043](https://attack.mitre.org/tactics/TA0043/) Search websites, social media, employee information, domains, IPs, exposed systems, and other public information.
 
 ### 🎯 Resource Development — [TA0042](https://attack.mitre.org/tactics/TA0042/)
 Set up domains, servers, malware, accounts, infrastructure, or stolen credentials they will use during the attack.
