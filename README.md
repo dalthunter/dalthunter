@@ -1,6 +1,6 @@
-
-## 📂 Threat Actor Profiles
 ---
+## 📂 Threat Actor Profiles
+
 🔗 [The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ Ransomware-as-a-Service (RaaS)
 
 🔗 [Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/) ➜ Social Engineering & Identity Attacks
@@ -18,4 +18,5 @@
 🔗 [TraderTraitor](https://dalthunter.github.io/intel-reports/tradertraitor/) ➜ Cryptocurrency Theft & Supply Chain Attacks
 
 🔗 [Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/) ➜ Callback Phishing & Data Extortion
+
 ---
