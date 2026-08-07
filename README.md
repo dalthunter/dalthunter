@@ -18,5 +18,4 @@
 🔗 [TraderTraitor](https://dalthunter.github.io/intel-reports/tradertraitor/) ➜ Cryptocurrency Theft & Supply Chain Attacks
 
 🔗 [Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/) ➜ Callback Phishing & Data Extortion
-
 ---
