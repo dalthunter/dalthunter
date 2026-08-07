@@ -19,7 +19,7 @@
 🔗 [Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/) ➜ Callback Phishing & Data Extortion
 
 ***
-## 🔴 MITRE ATT&CK Attack Lifecycle
+## 🔴 MITRE ATT&CK Adversary Tactics
 <table>
 <tr>
 <td style="font-size: 1.2em;"><strong>🔎 Reconnaissance — <a href="https://attack.mitre.org/tactics/TA0043/">TA0043</a></strong></td>
