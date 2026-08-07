@@ -90,7 +90,6 @@
 <td style="font-size: 1.2em;">➜ Disrupt, destroy, encrypt, or expose systems and data.</td>
 </tr>
 </table>
-
 ***
 ## 🔴 Threat Actor Classification & Motivation
 <table>
@@ -239,3 +238,4 @@
 <td>➜ Recognition, status, reputation, or proving technical ability.</td>
 </tr>
 </table>
+***
