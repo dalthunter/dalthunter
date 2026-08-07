@@ -20,30 +20,30 @@
 
 ***
 
-<h3>🔎 Reconnaissance — <a href="https://attack.mitre.org/tactics/TA0043/">TA0043</a> <small>→ Find information about the target.</small></h3>
+<h3>🔎 Reconnaissance — <a href="https://attack.mitre.org/tactics/TA0043/">TA0043</a> <span style="font-size: 0.75em; font-weight: normal;">→ Find information about the target.</span></h3>
 
-<h3>🎯 Resource Development — <a href="https://attack.mitre.org/tactics/TA0042/">TA0042</a> <small>→ Prepare infrastructure, malware, accounts, or credentials.</small></h3>
+<h3>🎯 Resource Development — <a href="https://attack.mitre.org/tactics/TA0042/">TA0042</a> <span style="font-size: 0.75em; font-weight: normal;">→ Prepare infrastructure, malware, accounts, or credentials.</span></h3>
 
-<h3>🚪 Initial Access — <a href="https://attack.mitre.org/tactics/TA0001/">TA0001</a> <small>→ Get into the victim's system.</small></h3>
+<h3>🚪 Initial Access — <a href="https://attack.mitre.org/tactics/TA0001/">TA0001</a> <span style="font-size: 0.75em; font-weight: normal;">→ Get into the victim's system.</span></h3>
 
-<h3>🦠 Execution — <a href="https://attack.mitre.org/tactics/TA0002/">TA0002</a> <small>→ Run malicious code or commands.</small></h3>
+<h3>🦠 Execution — <a href="https://attack.mitre.org/tactics/TA0002/">TA0002</a> <span style="font-size: 0.75em; font-weight: normal;">→ Run malicious code or commands.</span></h3>
 
-<h3>📌 Persistence — <a href="https://attack.mitre.org/tactics/TA0003/">TA0003</a> <small>→ Stay in the system after gaining access.</small></h3>
+<h3>📌 Persistence — <a href="https://attack.mitre.org/tactics/TA0003/">TA0003</a> <span style="font-size: 0.75em; font-weight: normal;">→ Stay in the system after gaining access.</span></h3>
 
-<h3>⬆️ Privilege Escalation — <a href="https://attack.mitre.org/tactics/TA0004/">TA0004</a> <small>→ Gain higher-level permissions.</small></h3>
+<h3>⬆️ Privilege Escalation — <a href="https://attack.mitre.org/tactics/TA0004/">TA0004</a> <span style="font-size: 0.75em; font-weight: normal;">→ Gain higher-level permissions.</span></h3>
 
-<h3>🛡️ Defense Evasion — <a href="https://attack.mitre.org/tactics/TA0005/">TA0005</a> <small>→ Hide activity and avoid detection.</small></h3>
+<h3>🛡️ Defense Evasion — <a href="https://attack.mitre.org/tactics/TA0005/">TA0005</a> <span style="font-size: 0.75em; font-weight: normal;">→ Hide activity and avoid detection.</span></h3>
 
-<h3>🔑 Credential Access — <a href="https://attack.mitre.org/tactics/TA0006/">TA0006</a> <small>→ Steal passwords, tokens, or other credentials.</small></h3>
+<h3>🔑 Credential Access — <a href="https://attack.mitre.org/tactics/TA0006/">TA0006</a> <span style="font-size: 0.75em; font-weight: normal;">→ Steal passwords, tokens, or other credentials.</span></h3>
 
-<h3>🗺️ Discovery — <a href="https://attack.mitre.org/tactics/TA0007/">TA0007</a> <small>→ Find systems, users, networks, and valuable data.</small></h3>
+<h3>🗺️ Discovery — <a href="https://attack.mitre.org/tactics/TA0007/">TA0007</a> <span style="font-size: 0.75em; font-weight: normal;">→ Find systems, users, networks, and valuable data.</span></h3>
 
-<h3>🏃 Lateral Movement — <a href="https://attack.mitre.org/tactics/TA0008/">TA0008</a> <small>→ Move from one compromised system to another.</small></h3>
+<h3>🏃 Lateral Movement — <a href="https://attack.mitre.org/tactics/TA0008/">TA0008</a> <span style="font-size: 0.75em; font-weight: normal;">→ Move from one compromised system to another.</span></h3>
 
-<h3>📡 Command and Control — <a href="https://attack.mitre.org/tactics/TA0011/">TA0011</a> <small>→ Communicate with attacker-controlled infrastructure.</small></h3>
+<h3>📡 Command and Control — <a href="https://attack.mitre.org/tactics/TA0011/">TA0011</a> <span style="font-size: 0.75em; font-weight: normal;">→ Communicate with attacker-controlled infrastructure.</span></h3>
 
-<h3>📂 Collection — <a href="https://attack.mitre.org/tactics/TA0009/">TA0009</a> <small>→ Gather valuable information from the victim.</small></h3>
+<h3>📂 Collection — <a href="https://attack.mitre.org/tactics/TA0009/">TA0009</a> <span style="font-size: 0.75em; font-weight: normal;">→ Gather valuable information from the victim.</span></h3>
 
-<h3>🚚 Exfiltration — <a href="https://attack.mitre.org/tactics/TA0010/">TA0010</a> <small>→ Move stolen data outside the victim's network.</small></h3>
+<h3>🚚 Exfiltration — <a href="https://attack.mitre.org/tactics/TA0010/">TA0010</a> <span style="font-size: 0.75em; font-weight: normal;">→ Move stolen data outside the victim's network.</span></h3>
 
-<h3>💥 Impact — <a href="https://attack.mitre.org/tactics/TA0040/">TA0040</a> <small>→ Disrupt, destroy, encrypt, or expose systems and data.</small></h3>
+<h3>💥 Impact — <a href="https://attack.mitre.org/tactics/TA0040/">TA0040</a> <span style="font-size: 0.75em; font-weight: normal;">→ Disrupt, destroy, encrypt, or expose systems and data.</span></h3>
