@@ -1,4 +1,4 @@
-## 📂 Threat Actor Profiles
+## 📂👤 Threat Actor Profiles
 🔗 [The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/) ➜ Ransomware-as-a-Service (RaaS)
 
 🔗 [Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/) ➜ Social Engineering & Identity Attacks
@@ -17,7 +17,7 @@
 
 🔗 [Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/) ➜ Callback Phishing & Data Extortion
 ***
-## 🔴 Tactics, Techniques, and Procedures
+## 🛠️ Tactics, Techniques, and Procedures
 <table>
 <tr>
 <td style="font-size: 1.2em;"><strong>🔎 Reconnaissance — <a href="https://attack.mitre.org/tactics/TA0043/">TA0043</a></strong></td>
@@ -91,7 +91,7 @@
 </table>
 
 ***
-## 🔴 Threat Actor Classification & Motivation
+## 📝 Threat Actor Classification & Motivation
 <table>
 <tr>
 <td style="font-size: 1.2em;"><strong>CLASSIFICATION</td>
