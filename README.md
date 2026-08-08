@@ -20,6 +20,11 @@
 ## 🔴 MITRE ATT&CK Adversary Tactics
 <table>
 <tr>
+<td style="font-size: 1.2em;"><strong>CLASSIFICATION</td>
+<td style="font-size: 1.2em;"><strong>MOTIVATION</td>
+</tr>
+  
+<tr>
 <td style="font-size: 1.2em;"><strong>🔎 Reconnaissance — <a href="https://attack.mitre.org/tactics/TA0043/">TA0043</a></strong></td>
 <td style="font-size: 1.2em;">➜ Find information about the target.</td>
 </tr>
