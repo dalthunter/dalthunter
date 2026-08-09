@@ -40,7 +40,7 @@
 </tr>
 
 <tr>
-<td style="font-size: 1.2em;"><strong>📌 Persistence — <a href="https://attack.mitre.org/tactics/TA0003/">TA0003</a></strong></td>
+<td style="font-size: 1.2em;"><strong> Persistence — <a href="https://attack.mitre.org/tactics/TA0003/">TA0003</a></strong></td>
 <td style="font-size: 1.2em;">➜ Stay in the system after gaining access.</td>
 </tr>
 
