@@ -1,4 +1,5 @@
 <div style="background-color:#0d1117; color:#ffffff; padding:30px;">
+  
 ## 👤 Threat Actor Profiles
 🔗 **[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS)
 
@@ -247,4 +248,5 @@
 <td>➜ Recognition, status, reputation, or proving technical ability.</td>
 </tr>
 </table>
+
 </div>
