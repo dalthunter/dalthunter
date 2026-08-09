@@ -90,7 +90,8 @@
 </tr>
 </table>
 
-<img width="396" height="565" alt="image" src="https://github.com/user-attachments/assets/58511323-6b5a-4cde-aac1-89d34298ecd8" />
+<img width="383" height="514" alt="image" src="https://github.com/user-attachments/assets/68194ba4-27d6-4d09-9fd3-7e2b15d861c6" />
+
 
 ***
 ## 📝 Threat Actor Classification & Motivation
