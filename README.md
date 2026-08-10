@@ -96,6 +96,6 @@
 </table>
 
 <img width="383" height="514" alt="image" src="https://github.com/user-attachments/assets/68194ba4-27d6-4d09-9fd3-7e2b15d861c6" /> <img width="388" height="514" alt="image" src="https://github.com/user-attachments/assets/20c014c3-fa25-4804-a8f8-b14bcbb22a34" />
-**[<img width="480" height="270" alt="BreakingNewsGIFbyCC0Studios" src="https://github.com/user-attachments/assets/01486928-5aab-437f-8e37-a28a0c23f50d" />
+**[<img width="480" height="80" alt="Suggestion" src="https://github.com/user-attachments/assets/ffd4afd2-20ec-43f1-9b34-28884cd0ddc6" />
 AttackFeed](https://www.attackfeed.com/)**
 ***
