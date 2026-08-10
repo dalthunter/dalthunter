@@ -1,0 +1,98 @@
+<svg width="440" height="210" viewBox="0 0 440 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bubble-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        line-height: 1.35;
+        color: #1c1c1e;
+        margin: 0;
+      }
+      .bubble-box {
+        background: #e9e9eb;
+        border-radius: 18px;
+        padding: 10px 14px;
+        display: inline-block;
+        box-sizing: border-box;
+      }
+      .dot {
+        fill: #8e8e93;
+      }
+    </style>
+  </defs>
+
+  <!-- ROW 1: "Hi, I'm Dalton" -->
+  <g>
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.0857;0.0857;1" dur="14s" repeatCount="indefinite"/>
+      <rect x="0" y="10" width="60" height="36" rx="18" fill="#e9e9eb"/>
+      <circle class="dot" cx="18" cy="28" r="4">
+        <animate attributeName="cy" values="28;22;28" dur="0.9s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="30" cy="28" r="4">
+        <animate attributeName="cy" values="28;22;28" dur="0.9s" begin="0.15s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="42" cy="28" r="4">
+        <animate attributeName="cy" values="28;22;28" dur="0.9s" begin="0.3s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0857;0.0857;1" dur="14s" repeatCount="indefinite"/>
+      <foreignObject x="0" y="6" width="260" height="44">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
+          <p class="bubble-text">Hi, I'm Dalton</p>
+        </div>
+      </foreignObject>
+    </g>
+  </g>
+
+  <!-- ROW 2: "I'm an Intelligence analyst researching emerging cyber threats." -->
+  <g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2857;0.2857;0.371;0.371;1" dur="14s" repeatCount="indefinite"/>
+      <rect x="0" y="66" width="60" height="36" rx="18" fill="#e9e9eb"/>
+      <circle class="dot" cx="18" cy="84" r="4">
+        <animate attributeName="cy" values="84;78;84" dur="0.9s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="30" cy="84" r="4">
+        <animate attributeName="cy" values="84;78;84" dur="0.9s" begin="0.15s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="42" cy="84" r="4">
+        <animate attributeName="cy" values="84;78;84" dur="0.9s" begin="0.3s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.371;0.371;1" dur="14s" repeatCount="indefinite"/>
+      <foreignObject x="0" y="62" width="360" height="64">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
+          <p class="bubble-text">I'm an Intelligence analyst, researching emerging cyber threats.</p>
+        </div>
+      </foreignObject>
+    </g>
+  </g>
+
+  <!-- ROW 3: "Welcome to my page" -->
+  <g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.643;0.643;0.729;0.729;1" dur="14s" repeatCount="indefinite"/>
+      <rect x="0" y="150" width="60" height="36" rx="18" fill="#e9e9eb"/>
+      <circle class="dot" cx="18" cy="168" r="4">
+        <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="30" cy="168" r="4">
+        <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0.15s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="42" cy="168" r="4">
+        <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0.3s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.729;0.729;1" dur="14s" repeatCount="indefinite"/>
+      <foreignObject x="0" y="146" width="260" height="44">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
+          <p class="bubble-text">Welcome to my page.</p>
+        </div>
+      </foreignObject>
+    </g>
+  </g>
+</svg>
