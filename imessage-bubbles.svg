@@ -24,7 +24,7 @@
   <!-- ROW 1: "Hi, I'm Dalton" -->
   <g>
     <g>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.10;0.12;1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.1444;0.1478;1" dur="9s" repeatCount="indefinite"/>
       <rect x="0" y="10" width="60" height="36" rx="18" fill="#e9e9eb"/>
       <circle class="dot" cx="18" cy="28" r="4">
         <animate attributeName="cy" values="28;22;28" dur="0.5s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
@@ -37,8 +37,8 @@
       </circle>
     </g>
     <g transform-origin="0px 28px">
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10;0.105;1" dur="9s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="scale" values="0.6;1.05;0.98;1" keyTimes="0;0.4;0.7;1" dur="0.35s" begin="0.9s;9.9s;18.9s;27.9s" fill="freeze" calcMode="spline" keySplines="0.34 1.2 0.64 1;0.34 1.2 0.64 1;0.34 1.2 0.64 1"/>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1444;0.1478;1" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="0.6;1.05;0.98;1" keyTimes="0;0.4;0.7;1" dur="0.35s" begin="1.3s;10.3s;19.3s;28.3s" fill="freeze" calcMode="spline" keySplines="0.34 1.2 0.64 1;0.34 1.2 0.64 1;0.34 1.2 0.64 1"/>
       <foreignObject x="0" y="6" width="260" height="44">
         <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
           <p class="bubble-text">Hi, I'm Dalton</p>
@@ -50,7 +50,7 @@
   <!-- ROW 2: "An intelligence analyst researching emerging cyber threats." -->
   <g>
     <g>
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.36;0.38;0.48;0.50;1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4033;0.5444;0.5478;1" dur="9s" repeatCount="indefinite"/>
       <rect x="0" y="66" width="60" height="36" rx="18" fill="#e9e9eb"/>
       <circle class="dot" cx="18" cy="84" r="4">
         <animate attributeName="cy" values="84;78;84" dur="0.5s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
@@ -63,8 +63,8 @@
       </circle>
     </g>
     <g transform-origin="0px 84px">
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.40;0.405;1" dur="9s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="scale" values="0.6;1.05;0.98;1" keyTimes="0;0.4;0.7;1" dur="0.35s" begin="3.6s;12.6s;21.6s" fill="freeze" calcMode="spline" keySplines="0.34 1.2 0.64 1;0.34 1.2 0.64 1;0.34 1.2 0.64 1"/>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.5444;0.5478;1" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="0.6;1.05;0.98;1" keyTimes="0;0.4;0.7;1" dur="0.35s" begin="4.9s;13.9s;22.9s" fill="freeze" calcMode="spline" keySplines="0.34 1.2 0.64 1;0.34 1.2 0.64 1;0.34 1.2 0.64 1"/>
       <foreignObject x="0" y="62" width="360" height="64">
         <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
           <p class="bubble-text">An intelligence analyst researching emerging cyber threats.</p>
@@ -76,7 +76,7 @@
   <!-- ROW 3: "Welcome to my GitHub." -->
   <g>
     <g>
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76;0.78;0.88;0.90;1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7778;0.7811;0.9222;0.9256;1" dur="9s" repeatCount="indefinite"/>
       <rect x="0" y="150" width="60" height="36" rx="18" fill="#e9e9eb"/>
       <circle class="dot" cx="18" cy="168" r="4">
         <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
@@ -89,8 +89,8 @@
       </circle>
     </g>
     <g transform-origin="0px 168px">
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.80;0.805;1" dur="9s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="scale" values="0.6;1.05;0.98;1" keyTimes="0;0.4;0.7;1" dur="0.35s" begin="7.2s;16.2s" fill="freeze" calcMode="spline" keySplines="0.34 1.2 0.64 1;0.34 1.2 0.64 1;0.34 1.2 0.64 1"/>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.9222;0.9256;1" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="0.6;1.05;0.98;1" keyTimes="0;0.4;0.7;1" dur="0.35s" begin="8.3s;17.3s" fill="freeze" calcMode="spline" keySplines="0.34 1.2 0.64 1;0.34 1.2 0.64 1;0.34 1.2 0.64 1"/>
       <foreignObject x="0" y="146" width="240" height="44">
         <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
           <p class="bubble-text">Welcome to my GitHub.</p>
