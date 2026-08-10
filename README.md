@@ -1,52 +1,110 @@
-### Hi there 👋
+<svg width="440" height="210" viewBox="0 0 440 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bubble-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        line-height: 1.35;
+        color: #1c1c1e;
+        margin: 0;
+      }
+      .bubble-box {
+        background: #e9e9eb;
+        border-radius: 18px;
+        padding: 10px 14px;
+        display: inline-block;
+        box-sizing: border-box;
+      }
+      .dot {
+        fill: #8e8e93;
+      }
+    </style>
+  </defs>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B" alt="Hello" />
-  </a>
-</p>
+  <!-- ROW 1: "Hi, I'm Dalton" -->
+  <g>
+    <!-- typing dots -->
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.0857;0.0857;1" dur="14s" repeatCount="indefinite"/>
+      <rect x="0" y="10" width="60" height="36" rx="18" fill="#e9e9eb"/>
+      <circle class="dot" cx="18" cy="28" r="4">
+        <animate attributeName="cy" values="28;22;28" dur="0.9s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="30" cy="28" r="4">
+        <animate attributeName="cy" values="28;22;28" dur="0.9s" begin="0.15s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="42" cy="28" r="4">
+        <animate attributeName="cy" values="28;22;28" dur="0.9s" begin="0.3s" repeatCount="indefinite"/>
+      </circle>
+    </g>
 
-<p align="center">
-  <a href="https://github.com/ishandutta2007/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=My+name+is+Dalton.;I'm+an+intelligence+analyst%2C+researching+emerging+cyber+threats.;Welcome+to+my+GitHub+page.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
+    <!-- bubble text -->
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0857;0.0857;1" dur="14s" repeatCount="indefinite"/>
+      <foreignObject x="0" y="6" width="260" height="44">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
+          <p class="bubble-text">Hi, I'm Dalton</p>
+        </div>
+      </foreignObject>
+    </g>
+  </g>
 
-<h4 align="center">My popular opensource repos: <a href="https://ishandutta2007.github.io/star-history-user/?user=ishandutta2007">star history</a></h4>
-<h4 align="center">One of <a href="https://committers.top/india_private">Top 10 active GitHub</a> users from India</h4>
-<h4 align="center">One of <a href="https://www.spoj.com/ranks/users/IN/">Top 30 SPOJ users</a> from India</h4>
-<h4 align="center">One of Top 500 <a href="https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets">Stack Overflow</a> and <a href="https://data.stackexchange.com/math/query/53058/top-users-by-country">Math Stack Exchange</a> users from India</h4>
+  <!-- ROW 2: "I'm an Intelligence analyst researching emerging cyber threats." -->
+  <g>
+    <!-- typing dots -->
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2857;0.2857;0.371;0.371;1" dur="14s" repeatCount="indefinite"/>
+      <rect x="0" y="66" width="60" height="36" rx="18" fill="#e9e9eb"/>
+      <circle class="dot" cx="18" cy="84" r="4">
+        <animate attributeName="cy" values="84;78;84" dur="0.9s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="30" cy="84" r="4">
+        <animate attributeName="cy" values="84;78;84" dur="0.9s" begin="0.15s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="42" cy="84" r="4">
+        <animate attributeName="cy" values="84;78;84" dur="0.9s" begin="0.3s" repeatCount="indefinite"/>
+      </circle>
+    </g>
 
-<p align="center">
-  <a href="https://github.com/ishandutta2007?tab=followers">
-    <img src="https://img.shields.io/github/followers/ishandutta2007?label=Followers&style=social" alt="GitHub followers" style="vertical-align:middle" />
-  </a>
-  <a href="https://github.com/ishandutta2007?language=&page=1&q=&sort=&tab=repositories&type=source">
-    <img src="https://img.shields.io/github/stars/ishandutta2007?style=social" alt="GitHub stars" style="vertical-align:middle" />
-  </a>
-  <a href="https://github.com/ishandutta2007">
-    <img src="https://komarev.com/ghpvc/?username=ishandutta2007&label=Profile%20Views&base=10000&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://medium.com/@ishandutta2007">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium" alt="Medium" style="vertical-align:middle" />
-  </a>
-  <a href="https://wakatime.com/@9b77cc98-5693-4a5a-a891-aebb4213974a">
-    <img src="https://wakatime.com/badge/user/9b77cc98-5693-4a5a-a891-aebb4213974a.svg" alt="Total time coded since May 21 2015" />
-  </a>
-</p>
+    <!-- bubble text -->
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.371;0.371;1" dur="14s" repeatCount="indefinite"/>
+      <foreignObject x="0" y="62" width="360" height="64">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
+          <p class="bubble-text">I'm an Intelligence analyst, researching emerging cyber threats.</p>
+        </div>
+      </foreignObject>
+    </g>
+  </g>
 
-<!-- Social icons -->
-<p align="center">
-  <a href="https://twitter.com/ishandutta2007"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/jc4xtF58Ve" alt="Discord" title="Singularity Labs Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/ishandutta2007"><img width="32px" alt="Dev.to" title="ishandutta2007 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/ishandutta2007"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
+  <!-- ROW 3: "Welcome to my page" -->
+  <g>
+    <!-- typing dots -->
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.643;0.643;0.729;0.729;1" dur="14s" repeatCount="indefinite"/>
+      <rect x="0" y="150" width="60" height="36" rx="18" fill="#e9e9eb"/>
+      <circle class="dot" cx="18" cy="168" r="4">
+        <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="30" cy="168" r="4">
+        <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0.15s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="dot" cx="42" cy="168" r="4">
+        <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0.3s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- bubble text -->
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.729;0.729;1" dur="14s" repeatCount="indefinite"/>
+      <foreignObject x="0" y="146" width="260" height="44">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
+          <p class="bubble-text">Welcome to my page.</p>
+        </div>
+      </foreignObject>
+    </g>
+  </g>
+</svg>
 
 ## 👤 Threat Actor Profiles
 **[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS)
