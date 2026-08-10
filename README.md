@@ -1,7 +1,11 @@
+<h1 align="center">Dalton Hunter</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dalton+Hunter;I'm+an+Intelligence+Analyst;Interested+in+Cyber+Threats+%26+OSINT;Researching+Threat+Actors%2C+IOCs+%26+TTPs;Always+Learning+%7C+Always+Investigating" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1600&color=8B949E&center=true&vCenter=true&width=800&height=50&lines=Intelligence+Analyst;Cyber+Threat+Intelligence;OSINT+%26+Threat+Research" alt="Dalton Hunter" />
+</p>
+
+<p align="center">
+  Intelligence Analyst focused on cyber threats, OSINT, and intelligence research.
 </p>
 
 ## 👤 Threat Actor Profiles
