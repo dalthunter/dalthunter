@@ -1,10 +1,302 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1600&color=8B949E&center=true&vCenter=true&width=800&height=50&lines=Intelligence+Analyst;Cyber+Threat+Intelligence;OSINT+%26+Threat+Research" alt="Dalton Hunter" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Apple Text Animation</title>
 
-<p align="center">
-  Intelligence Analyst focused on cyber threats, OSINT, and intelligence research.
-</p>
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #000;
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                     "SF Pro Text", Helvetica, Arial, sans-serif;
+    }
+
+    .phone {
+        width: 390px;
+        height: 844px;
+        background: #f5f5f7;
+        border-radius: 45px;
+        overflow: hidden;
+        box-shadow: 0 0 60px rgba(255,255,255,0.08);
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* iPhone-style header */
+    .header {
+        height: 105px;
+        padding-top: 48px;
+        background: rgba(250,250,250,0.96);
+        border-bottom: 1px solid #d8d8d8;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+    }
+
+    .back {
+        position: absolute;
+        left: 20px;
+        font-size: 27px;
+        color: #007aff;
+        font-weight: 300;
+    }
+
+    .contact {
+        text-align: center;
+    }
+
+    .avatar {
+        width: 31px;
+        height: 31px;
+        margin: 0 auto 2px;
+        border-radius: 50%;
+        background: #d1d1d6;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 15px;
+        color: white;
+    }
+
+    .contact-name {
+        font-size: 12px;
+        font-weight: 500;
+        color: #333;
+    }
+
+    .messages {
+        flex: 1;
+        padding: 20px 14px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        gap: 7px;
+        overflow: hidden;
+    }
+
+    /* Incoming message */
+    .message {
+        align-self: flex-start;
+        max-width: 78%;
+        background: #e5e5ea;
+        color: #000;
+        padding: 9px 14px;
+        border-radius: 19px;
+        font-size: 17px;
+        line-height: 1.25;
+        opacity: 0;
+        transform: translateY(10px);
+        animation: messageIn 0.25s ease forwards;
+    }
+
+    /* Typing indicator */
+    .typing {
+        align-self: flex-start;
+        background: #e5e5ea;
+        width: 58px;
+        height: 36px;
+        border-radius: 19px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 4px;
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    .dot {
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+        background: #777;
+        animation: typing 1.2s infinite ease-in-out;
+    }
+
+    .dot:nth-child(2) {
+        animation-delay: 0.15s;
+    }
+
+    .dot:nth-child(3) {
+        animation-delay: 0.3s;
+    }
+
+    @keyframes typing {
+        0%, 60%, 100% {
+            transform: translateY(0);
+            opacity: 0.45;
+        }
+
+        30% {
+            transform: translateY(-4px);
+            opacity: 1;
+        }
+    }
+
+    @keyframes messageIn {
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .show {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* Replay button */
+    .replay {
+        position: absolute;
+        bottom: 25px;
+        right: 25px;
+        border: none;
+        background: #007aff;
+        color: white;
+        padding: 10px 17px;
+        border-radius: 20px;
+        font-size: 14px;
+        cursor: pointer;
+        font-family: inherit;
+    }
+
+    .replay:hover {
+        background: #006ee6;
+    }
+
+</style>
+</head>
+
+<body>
+
+<div class="phone">
+
+    <div class="header">
+        <div class="back">‹</div>
+
+        <div class="contact">
+            <div class="avatar">D</div>
+            <div class="contact-name">Dalton</div>
+        </div>
+    </div>
+
+    <div class="messages" id="messages"></div>
+
+</div>
+
+<button class="replay" onclick="startAnimation()">Replay</button>
+
+
+<script>
+
+const messages = [
+    "Hi there 👋",
+    "My name is Dalton.",
+    "I'm an Intelligence Analyst researching emerging cyber threats."
+    "Welcome to my page."
+];
+
+const messagesContainer = document.getElementById("messages");
+
+
+function createTypingIndicator() {
+
+    const typing = document.createElement("div");
+
+    typing.className = "typing";
+
+    typing.innerHTML = `
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    `;
+
+    messagesContainer.appendChild(typing);
+
+    requestAnimationFrame(() => {
+        typing.classList.add("show");
+    });
+
+    return typing;
+}
+
+
+function createMessage(text) {
+
+    const message = document.createElement("div");
+
+    message.className = "message";
+    message.textContent = text;
+
+    messagesContainer.appendChild(message);
+
+    return message;
+}
+
+
+function wait(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+
+async function startAnimation() {
+
+    messagesContainer.innerHTML = "";
+
+    // First typing indicator
+    let typing = createTypingIndicator();
+
+    await wait(1800);
+
+    // Remove typing indicator
+    typing.remove();
+
+    // First message
+    createMessage(messages[0]);
+
+    await wait(1000);
+
+    // Second typing indicator
+    typing = createTypingIndicator();
+
+    await wait(1800);
+
+    typing.remove();
+
+    // Second message
+    createMessage(messages[1]);
+
+    await wait(1000);
+
+    // Third typing indicator
+    typing = createTypingIndicator();
+
+    await wait(1800);
+
+    typing.remove();
+
+    // Third message
+    createMessage(messages[2]);
+}
+
+
+// Start automatically
+startAnimation();
+
+</script>
+
+</body>
+</html>
 
 ## 👤 Threat Actor Profiles
 **[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS)
