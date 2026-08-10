@@ -1,5 +1,3 @@
-<h1 align="center">Dalton Hunter</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1600&color=8B949E&center=true&vCenter=true&width=800&height=50&lines=Intelligence+Analyst;Cyber+Threat+Intelligence;OSINT+%26+Threat+Research" alt="Dalton Hunter" />
 </p>
