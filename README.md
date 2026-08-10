@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <img src="./imessage-bubbles.svg" alt="typing bubbles" width="440" />
-
 ---
 
 ## 👤 Threat Actor Profiles
