@@ -65,13 +65,13 @@
       <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.371;0.371;1" dur="7s" repeatCount="indefinite"/>
       <foreignObject x="0" y="62" width="360" height="64">
         <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
-          <p class="bubble-text">An Intelligence analyst, researching emerging cyber threats.</p>
+          <p class="bubble-text">An Intelligence analyst researching emerging cyber threats.</p>
         </div>
       </foreignObject>
     </g>
   </g>
 
-  <!-- ROW 3: "Welcome to my page!" -->
+  <!-- ROW 3: "Welcome to my GitHub." -->
   <g>
     <g>
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.643;0.643;0.729;0.729;1" dur="7s" repeatCount="indefinite"/>
