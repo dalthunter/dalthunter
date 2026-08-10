@@ -24,7 +24,7 @@
   <!-- ROW 1: "Hi, I'm Dalton" -->
   <g>
     <g>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.0667;0.0667;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.10;0.16;1" dur="6s" repeatCount="indefinite"/>
       <rect x="0" y="10" width="60" height="36" rx="18" fill="#e9e9eb"/>
       <circle class="dot" cx="18" cy="28" r="4">
         <animate attributeName="cy" values="28;22;28" dur="0.4s" begin="0s" repeatCount="indefinite"/>
@@ -49,7 +49,7 @@
   <!-- ROW 2: "An intelligence analyst researching emerging cyber threats." -->
   <g>
     <g>
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.333;0.4;0.4;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.36;0.43;0.48;0.48;1" dur="6s" repeatCount="indefinite"/>
       <rect x="0" y="66" width="60" height="36" rx="18" fill="#e9e9eb"/>
       <circle class="dot" cx="18" cy="84" r="4">
         <animate attributeName="cy" values="84;78;84" dur="0.4s" begin="0s" repeatCount="indefinite"/>
@@ -74,16 +74,16 @@
   <!-- ROW 3: "Welcome to my GitHub." -->
   <g>
     <g>
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.733;0.733;0.8;0.8;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76;0.83;0.88;0.88;1" dur="6s" repeatCount="indefinite"/>
       <rect x="0" y="150" width="60" height="36" rx="18" fill="#e9e9eb"/>
       <circle class="dot" cx="18" cy="168" r="4">
-        <animate attributeName="cy" values="168;162;168" dur="0.4s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="168;162;168" dur="0.8s" begin="0s" repeatCount="indefinite"/>
       </circle>
       <circle class="dot" cx="30" cy="168" r="4">
-        <animate attributeName="cy" values="168;162;168" dur="0.4s" begin="0.1s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="168;162;168" dur="0.8s" begin="0.1s" repeatCount="indefinite"/>
       </circle>
       <circle class="dot" cx="42" cy="168" r="4">
-        <animate attributeName="cy" values="168;162;168" dur="0.4s" begin="0.2s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="168;162;168" dur="0.8s" begin="0.2s" repeatCount="indefinite"/>
       </circle>
     </g>
     <g>
