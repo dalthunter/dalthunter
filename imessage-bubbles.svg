@@ -24,20 +24,20 @@
   <!-- ROW 1: "Hi, I'm Dalton" -->
   <g>
     <g>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.10;0.16;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.10;0.17;1" dur="9s" repeatCount="indefinite"/>
       <rect x="0" y="10" width="60" height="36" rx="18" fill="#e9e9eb"/>
       <circle class="dot" cx="18" cy="28" r="4">
-        <animate attributeName="cy" values="28;22;28" dur="0.4s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="28;22;28" dur="0.5s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
       </circle>
       <circle class="dot" cx="30" cy="28" r="4">
-        <animate attributeName="cy" values="28;22;28" dur="0.4s" begin="0.1s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="28;22;28" dur="0.5s" begin="0.12s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
       </circle>
       <circle class="dot" cx="42" cy="28" r="4">
-        <animate attributeName="cy" values="28;22;28" dur="0.4s" begin="0.2s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="28;22;28" dur="0.5s" begin="0.24s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
       </circle>
     </g>
     <g>
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0667;0.0667;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10;0.17;1" dur="9s" repeatCount="indefinite"/>
       <foreignObject x="0" y="6" width="260" height="44">
         <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
           <p class="bubble-text">Hi, I'm Dalton</p>
@@ -49,20 +49,20 @@
   <!-- ROW 2: "An intelligence analyst researching emerging cyber threats." -->
   <g>
     <g>
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.36;0.43;0.48;0.48;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.36;0.43;0.48;0.53;1" dur="9s" repeatCount="indefinite"/>
       <rect x="0" y="66" width="60" height="36" rx="18" fill="#e9e9eb"/>
       <circle class="dot" cx="18" cy="84" r="4">
-        <animate attributeName="cy" values="84;78;84" dur="0.4s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="84;78;84" dur="0.5s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
       </circle>
       <circle class="dot" cx="30" cy="84" r="4">
-        <animate attributeName="cy" values="84;78;84" dur="0.4s" begin="0.1s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="84;78;84" dur="0.5s" begin="0.12s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
       </circle>
       <circle class="dot" cx="42" cy="84" r="4">
-        <animate attributeName="cy" values="84;78;84" dur="0.4s" begin="0.2s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="84;78;84" dur="0.5s" begin="0.24s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
       </circle>
     </g>
     <g>
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.4;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.40;0.46;1" dur="9s" repeatCount="indefinite"/>
       <foreignObject x="0" y="62" width="360" height="64">
         <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
           <p class="bubble-text">An intelligence analyst researching emerging cyber threats.</p>
@@ -74,20 +74,20 @@
   <!-- ROW 3: "Welcome to my GitHub." -->
   <g>
     <g>
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76;0.83;0.88;0.88;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76;0.83;0.88;0.93;1" dur="9s" repeatCount="indefinite"/>
       <rect x="0" y="150" width="60" height="36" rx="18" fill="#e9e9eb"/>
       <circle class="dot" cx="18" cy="168" r="4">
-        <animate attributeName="cy" values="168;162;168" dur="0.8s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
       </circle>
       <circle class="dot" cx="30" cy="168" r="4">
-        <animate attributeName="cy" values="168;162;168" dur="0.8s" begin="0.1s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0.12s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
       </circle>
       <circle class="dot" cx="42" cy="168" r="4">
-        <animate attributeName="cy" values="168;162;168" dur="0.8s" begin="0.2s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="168;162;168" dur="0.9s" begin="0.24s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
       </circle>
     </g>
     <g>
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.8;0.8;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.80;0.86;1" dur="9s" repeatCount="indefinite"/>
       <foreignObject x="0" y="146" width="240" height="44">
         <div xmlns="http://www.w3.org/1999/xhtml" class="bubble-box">
           <p class="bubble-text">Welcome to my GitHub.</p>
