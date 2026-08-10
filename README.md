@@ -1,3 +1,13 @@
+<h1 align="center">Hi, I'm Dalton Hunter</h1>
+
+<h3 align="center">Intelligence Analyst | Cyber Threat Intelligence | OSINT</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dalton+Hunter;I'm+an+Intelligence+Analyst;Interested+in+Cyber+Threats+%26+OSINT;Researching+Threat+Actors%2C+IOCs+%26+TTPs;Always+Learning+%7C+Always+Investigating" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 👤 Threat Actor Profiles
 **[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS)
 
