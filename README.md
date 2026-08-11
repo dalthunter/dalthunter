@@ -119,16 +119,16 @@
 
 ## Intelligence & IOC Feeds
 
- [abuse.ch](https://abuse.ch/) — Open-source threat intelligence and malware tracking.
+ [abuse.ch](https://abuse.ch/) 
  
- [ThreatFox](https://threatfox.abuse.ch/) — Search and share malware indicators.
+ [ThreatFox](https://threatfox.abuse.ch/) 
  
- [MalwareBazaar](https://bazaar.abuse.ch/) — Malware samples, hashes, and information.
+ [MalwareBazaar](https://bazaar.abuse.ch/) 
  
- [URLhaus](https://urlhaus.abuse.ch/) — Tracks malicious URLs and malware distribution.
+ [URLhaus](https://urlhaus.abuse.ch/) 
  
- [AlienVault OTX](https://otx.alienvault.com/) — Community threat intelligence and IOCs.
+ [AlienVault OTX](https://otx.alienvault.com/) 
  
- [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) — Tracks actively exploited vulnerabilities.
+ [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) 
  
- [GreyNoise](https://www.greynoise.io/) — Tracks internet scanners and suspicious activity.
+ [GreyNoise](https://www.greynoise.io/) 
