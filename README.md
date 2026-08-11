@@ -101,34 +101,34 @@
 
 ## News & Reporting
 
- [The Hacker News](https://thehackernews.com/)
+**[The Hacker News](https://thehackernews.com/)**
  
- [BleepingComputer](https://www.bleepingcomputer.com/)
+**[BleepingComputer](https://www.bleepingcomputer.com/)**
  
- [ThreatCluster](https://threatcluster.io/)
+**[ThreatCluster](https://threatcluster.io/)**
 
 ## Threat Research
 
- [Recorded Future](https://www.recordedfuture.com/research)
+**[Recorded Future](https://www.recordedfuture.com/research)**
  
- [Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/)
+**[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/)**
  
- [Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape)
+**[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape)**
  
- [Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)
+**[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)**
 
 ## Intelligence & IOC Feeds
 
- [abuse.ch](https://abuse.ch/) 
+**[abuse.ch](https://abuse.ch/)**
  
- [ThreatFox](https://threatfox.abuse.ch/) 
+**[ThreatFox](https://threatfox.abuse.ch/)**
  
- [MalwareBazaar](https://bazaar.abuse.ch/) 
+**[MalwareBazaar](https://bazaar.abuse.ch/)**
  
- [URLhaus](https://urlhaus.abuse.ch/) 
+**[URLhaus](https://urlhaus.abuse.ch/)**
  
- [AlienVault OTX](https://otx.alienvault.com/) 
+**[AlienVault OTX](https://otx.alienvault.com/)**
+
+**[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
  
- [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) 
- 
- [GreyNoise](https://www.greynoise.io/) 
+**[GreyNoise](https://www.greynoise.io/)**
