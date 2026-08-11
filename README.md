@@ -101,16 +101,16 @@
 
 ## News & Reporting
 
-[The Hacker News](https://thehackernews.com/) — Cybersecurity news and threat updates.
-[BleepingComputer](https://www.bleepingcomputer.com/) — Cybersecurity news, breaches, malware, and vulnerabilities.
-[ThreatCluster](https://threatcluster.io/) — Threat intelligence and threat actor tracking.
+[The Hacker News](https://thehackernews.com/)
+[BleepingComputer](https://www.bleepingcomputer.com/)
+[ThreatCluster](https://threatcluster.io/)
 
 ## Threat Research
 
-[Recorded Future](https://www.recordedfuture.com/research) — Threat intelligence and security research.
-[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/) — Threat research, malware, and incident analysis.
-[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape) — Threat intelligence and threat actor research.
-[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence) — Threat research, malware, actors, and IOCs.
+[Recorded Future](https://www.recordedfuture.com/research)
+[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/)
+[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape)
+[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)
 
 ## Intelligence & IOC Feeds
 
