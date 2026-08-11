@@ -99,7 +99,7 @@
 
 ***
 
-## News & Reporting
+## 👤News & Reporting
 
 **[The Hacker News](https://thehackernews.com/)**
  
@@ -107,7 +107,7 @@
  
 **[ThreatCluster](https://threatcluster.io/)**
 
-## Threat Research
+## 👤Threat Research
 
 **[Recorded Future](https://www.recordedfuture.com/research)**
  
@@ -117,7 +117,7 @@
  
 **[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)**
 
-## Intelligence & IOC Feeds
+## 👤Intelligence & IOC Feeds
 
 **[abuse.ch](https://abuse.ch/)**
  
