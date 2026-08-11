@@ -126,7 +126,5 @@
 **[MalwareBazaar](https://bazaar.abuse.ch/)**
  
 **[URLhaus](https://urlhaus.abuse.ch/)**
- 
-**[AlienVault OTX](https://otx.alienvault.com/)**
 
 **[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
