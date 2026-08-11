@@ -112,7 +112,7 @@
 - [Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape) — Threat intelligence and threat actor research.
 - [Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence) — Threat research, malware, actors, and IOCs.
 
-- ## Intelligence & IOC Feeds
+## Intelligence & IOC Feeds
 
 - [abuse.ch](https://abuse.ch/) — Open-source threat intelligence and malware tracking.
 - [ThreatFox](https://threatfox.abuse.ch/) — Search and share malware indicators.
