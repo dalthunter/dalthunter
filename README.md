@@ -101,23 +101,23 @@
 
 ## News & Reporting
 
-- [The Hacker News](https://thehackernews.com/) — Cybersecurity news and threat updates.
-- [BleepingComputer](https://www.bleepingcomputer.com/) — Cybersecurity news, breaches, malware, and vulnerabilities.
-- [ThreatCluster](https://threatcluster.io/) — Threat intelligence and threat actor tracking.
+[The Hacker News](https://thehackernews.com/) — Cybersecurity news and threat updates.
+[BleepingComputer](https://www.bleepingcomputer.com/) — Cybersecurity news, breaches, malware, and vulnerabilities.
+[ThreatCluster](https://threatcluster.io/) — Threat intelligence and threat actor tracking.
 
 ## Threat Research
 
-- [Recorded Future](https://www.recordedfuture.com/research) — Threat intelligence and security research.
-- [Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/) — Threat research, malware, and incident analysis.
-- [Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape) — Threat intelligence and threat actor research.
-- [Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence) — Threat research, malware, actors, and IOCs.
+[Recorded Future](https://www.recordedfuture.com/research) — Threat intelligence and security research.
+[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/) — Threat research, malware, and incident analysis.
+[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape) — Threat intelligence and threat actor research.
+[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence) — Threat research, malware, actors, and IOCs.
 
 ## Intelligence & IOC Feeds
 
-- [abuse.ch](https://abuse.ch/) — Open-source threat intelligence and malware tracking.
-- [ThreatFox](https://threatfox.abuse.ch/) — Search and share malware indicators.
-- [MalwareBazaar](https://bazaar.abuse.ch/) — Malware samples, hashes, and information.
-- [URLhaus](https://urlhaus.abuse.ch/) — Tracks malicious URLs and malware distribution.
-- [AlienVault OTX](https://otx.alienvault.com/) — Community threat intelligence and IOCs.
-- [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) — Tracks actively exploited vulnerabilities.
-- [GreyNoise](https://www.greynoise.io/) — Tracks internet scanners and suspicious activity.
+[abuse.ch](https://abuse.ch/) — Open-source threat intelligence and malware tracking.
+[ThreatFox](https://threatfox.abuse.ch/) — Search and share malware indicators.
+[MalwareBazaar](https://bazaar.abuse.ch/) — Malware samples, hashes, and information.
+[URLhaus](https://urlhaus.abuse.ch/) — Tracks malicious URLs and malware distribution.
+[AlienVault OTX](https://otx.alienvault.com/) — Community threat intelligence and IOCs.
+[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) — Tracks actively exploited vulnerabilities.
+[GreyNoise](https://www.greynoise.io/) — Tracks internet scanners and suspicious activity.
