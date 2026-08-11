@@ -130,5 +130,3 @@
 **[AlienVault OTX](https://otx.alienvault.com/)**
 
 **[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
- 
-**[GreyNoise](https://www.greynoise.io/)**
