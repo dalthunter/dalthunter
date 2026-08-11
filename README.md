@@ -121,10 +121,4 @@
 
 **[abuse.ch](https://abuse.ch/)**
  
-**[ThreatFox](https://threatfox.abuse.ch/)**
- 
-**[MalwareBazaar](https://bazaar.abuse.ch/)**
- 
-**[URLhaus](https://urlhaus.abuse.ch/)**
-
 **[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
