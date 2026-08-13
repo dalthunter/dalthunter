@@ -4,9 +4,7 @@
 
 ***
 ## 👤 Threat Actor Profiles
-**[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS)
-
-**[Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/)** ➜ Social Engineering & Identity Attacks
+**[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS) — **[Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/)** ➜ Social Engineering & Identity Attacks
 
 **[ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/)** ➜ Data Extortion & Cloud Intrusions
 
@@ -24,9 +22,7 @@
 ***
 ## 👤 MITRE ATT&CK Resources
 
-[**MITRE ATT&CK Enterprise Tactics**](https://attack.mitre.org/tactics/enterprise/)
-
-[**MITRE ATT&CK Navigator**](https://mitre-attack.github.io/attack-navigator/)
+[**MITRE ATT&CK Enterprise Tactics**](https://attack.mitre.org/tactics/enterprise/) — [**MITRE ATT&CK Navigator**](https://mitre-attack.github.io/attack-navigator/)
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e0cc5f2-3759-4284-b4d7-a3ea9963cee3" />
 
