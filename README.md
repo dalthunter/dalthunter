@@ -1,5 +1,4 @@
 <img src="./imessage-bubbles.svg" alt="typing bubbles" width="440" />
-
 ***
 ## 👤 Threat Actor Profiles
 **[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS) 
