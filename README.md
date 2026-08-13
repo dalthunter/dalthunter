@@ -99,7 +99,9 @@
 <td style="font-size: 1.2em;">➜ Disrupt, destroy, encrypt, or expose systems and data.</td>
 </tr>
 </table>
-<img width="1454" height="712" alt="image" src="https://github.com/user-attachments/assets/ed0719fd-ce1e-4615-a108-172a25741891" />
+<div style="border: 3px solid #000; padding: 4px; display: inline-block;">
+  <img width="1454" height="712" alt="MITRE ATT&CK Attack Flow" src="https://github.com/user-attachments/assets/ed0719fd-ce1e-4615-a108-172a25741891">
+</div>
 
 ***
 
