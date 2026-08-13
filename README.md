@@ -32,12 +32,12 @@
 
 ## 👤News & Reporting
 
-**[The Hacker News](https://thehackernews.com/)**;  **[BleepingComputer](https://www.bleepingcomputer.com/)** — **[ThreatCluster](https://threatcluster.io/)**
+**[The Hacker News](https://thehackernews.com/)** —— **[BleepingComputer](https://www.bleepingcomputer.com/)** —— **[ThreatCluster](https://threatcluster.io/)**
 
 ## 👤Threat Research
 
-**[Recorded Future](https://www.recordedfuture.com/research)** — **[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/)** — **[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape)** — **[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)**
+**[Recorded Future](https://www.recordedfuture.com/research)** —— **[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/)** —— **[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape)** —— **[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)**
 
 ## 👤Intelligence & IOC Feeds
 
-**[abuse.ch](https://abuse.ch/)** — **[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
+**[abuse.ch](https://abuse.ch/)** —— **[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
