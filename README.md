@@ -99,6 +99,7 @@
 <td style="font-size: 1.2em;">➜ Disrupt, destroy, encrypt, or expose systems and data.</td>
 </tr>
 </table>
+<img width="1454" height="712" alt="image" src="https://github.com/user-attachments/assets/ed0719fd-ce1e-4615-a108-172a25741891" />
 
 ***
 
