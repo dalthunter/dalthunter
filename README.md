@@ -34,11 +34,7 @@
 
 ## 👤News & Reporting
 
-**[The Hacker News](https://thehackernews.com/)**
- 
-**[BleepingComputer](https://www.bleepingcomputer.com/)**
- 
-**[ThreatCluster](https://threatcluster.io/)**
+**[The Hacker News](https://thehackernews.com/)** — **[BleepingComputer](https://www.bleepingcomputer.com/)** — **[ThreatCluster](https://threatcluster.io/)**
 
 ## 👤Threat Research
 
@@ -46,6 +42,4 @@
 
 ## 👤Intelligence & IOC Feeds
 
-**[abuse.ch](https://abuse.ch/)**
- 
-**[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
+**[abuse.ch](https://abuse.ch/)** — **[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
