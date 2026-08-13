@@ -8,7 +8,7 @@
 
 **[ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/)** ➜ Data Extortion & Cloud Intrusions  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[FIN7](https://dalthunter.github.io/intel-reports/fin7/)** ➜ Financial Cybercrime & Enterprise Intrusions
 
-**[UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/)** ➜ Cloud Identity & Voice Phishing (Vishing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Lazarus Group](https://dalthunter.github.io/intel-reports/lazarus-group/)** ➜ Nation-State Cyber Operations & Financial Theft
+**[UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/)** ➜ Cloud Identity & Voice Phishing (Vishing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Lazarus Group](https://dalthunter.github.io/intel-reports/lazarus-group/)** ➜ Nation-State Cyber Operations
 
 **[Volt Typhoon](https://dalthunter.github.io/intel-reports/volt-typhoon/)** ➜ Critical Infrastructure & Living-off-the-Land  
 
