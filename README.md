@@ -36,7 +36,7 @@
 
 ## 👤Threat Research
 
-**[Recorded Future](https://www.recordedfuture.com/research)** &nbsp;&nbsp;&nbsp;&nbsp; **[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape)** &nbsp;&nbsp;&nbsp;&nbsp;; **[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)**
+**[Recorded Future](https://www.recordedfuture.com/research)** &nbsp;&nbsp;&nbsp;&nbsp; **[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape)** &nbsp;&nbsp;&nbsp;&nbsp; **[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)**
 
 ## 👤Intelligence & IOC Feeds
 
