@@ -4,15 +4,34 @@
 
 ***
 ## 👤 Threat Actor Profiles
-**[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS) &nbsp;&nbsp;&nbsp;&nbsp;      **[Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/)** ➜ Social Engineering & Identity Attacks
+<table>
+<tr>
+<td width="50%">
 
-**[ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/)** ➜ Data Extortion & Cloud Intrusions &nbsp;&nbsp;&nbsp;&nbsp; **[FIN7](https://dalthunter.github.io/intel-reports/fin7/)** ➜ Financial Cybercrime & Enterprise Intrusions
+**[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS)
 
-**[UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/)** ➜ Cloud Identity & Voice Phishing (Vishing) &nbsp;&nbsp;&nbsp;&nbsp;   **[Lazarus Group](https://dalthunter.github.io/intel-reports/lazarus-group/)** ➜ Nation-State Cyber Operations & Financial Theft
+**[ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/)** ➜ Data Extortion & Cloud Intrusions
 
-**[Volt Typhoon](https://dalthunter.github.io/intel-reports/volt-typhoon/)** ➜ Critical Infrastructure & Living-off-the-Land &nbsp;&nbsp;&nbsp;&nbsp; **[TraderTraitor](https://dalthunter.github.io/intel-reports/tradertraitor/)** ➜ Cryptocurrency Theft & Supply Chain Attacks
+**[UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/)** ➜ Cloud Identity & Voice Phishing (Vishing)
+
+**[Volt Typhoon](https://dalthunter.github.io/intel-reports/volt-typhoon/)** ➜ Critical Infrastructure & Living-off-the-Land
 
 **[Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/)** ➜ Callback Phishing & Data Extortion
+
+</td>
+<td width="50%">
+
+**[Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/)** ➜ Social Engineering & Identity Attacks
+
+**[FIN7](https://dalthunter.github.io/intel-reports/fin7/)** ➜ Financial Cybercrime & Enterprise Intrusions
+
+**[Lazarus Group](https://dalthunter.github.io/intel-reports/lazarus-group/)** ➜ Nation-State Cyber Operations & Financial Theft
+
+**[TraderTraitor](https://dalthunter.github.io/intel-reports/tradertraitor/)** ➜ Cryptocurrency Theft & Supply Chain Attacks
+
+</td>
+</tr>
+</table>
 ***
 ## 👤 MITRE ATT&CK Resources
 
