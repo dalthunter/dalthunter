@@ -55,8 +55,13 @@
 </tr>
 
 <tr>
-<td style="font-size: 1.2em;"><strong> Defense Evasion — <a href="https://attack.mitre.org/tactics/TA0005/">TA0005</a></strong></td>
+<td style="font-size: 1.2em;"><strong> Stealth — <a href="https://attack.mitre.org/tactics/TA0005/">TA0005</a></strong></td>
 <td style="font-size: 1.2em;">➜ Hide activity and avoid detection.</td>
+</tr>
+
+<tr>
+<td style="font-size: 1.2em;"><strong> Defense Impairment — <a href="https://attack.mitre.org/tactics/TA0112/">TA0112</a></strong></td>
+<td style="font-size: 1.2em;">➜ Disable or weaken security controls and monitoring.</td>
 </tr>
 
 <tr>
