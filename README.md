@@ -32,7 +32,7 @@
 
 ## 👤News & Reporting
 
-**[The Hacker News](https://thehackernews.com/)** — **[BleepingComputer](https://www.bleepingcomputer.com/)** — **[ThreatCluster](https://threatcluster.io/)**
+**[The Hacker News](https://thehackernews.com/)**;  **[BleepingComputer](https://www.bleepingcomputer.com/)** — **[ThreatCluster](https://threatcluster.io/)**
 
 ## 👤Threat Research
 
