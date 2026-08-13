@@ -6,7 +6,7 @@
 ## 👤 Threat Actor Profiles
 **[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/)** ➜ Social Engineering & Identity Attacks
 
-**[ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/)** ➜ Data Extortion & Cloud Intrusions  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[FIN7](https://dalthunter.github.io/intel-reports/fin7/)** ➜ Financial Cybercrime & Enterprise Intrusions
+**[ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/)** ➜ Data Extortion & Cloud Intrusions  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[FIN7](https://dalthunter.github.io/intel-reports/fin7/)** ➜ Financial Cybercrime & Enterprise Intrusions
 
 **[UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/)** ➜ Cloud Identity & Voice Phishing (Vishing)  
 
