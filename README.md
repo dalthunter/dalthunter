@@ -24,7 +24,7 @@
 ***
 ## 👤 MITRE ATT&CK Resources
 
-[**MITRE ATT&CK Enterprise Tactics**](https://attack.mitre.org/tactics/enterprise/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**MITRE ATT&CK Navigator**](https://mitre-attack.github.io/attack-navigator/)
+[**MITRE ATT&CK Enterprise Tactics**](https://attack.mitre.org/tactics/enterprise/) &nbsp;&nbsp;&nbsp;&nbsp; [**MITRE ATT&CK Navigator**](https://mitre-attack.github.io/attack-navigator/)
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e0cc5f2-3759-4284-b4d7-a3ea9963cee3" />
 
@@ -32,12 +32,12 @@
 
 ## 👤News & Reporting
 
-**[The Hacker News](https://thehackernews.com/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[BleepingComputer](https://www.bleepingcomputer.com/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[ThreatCluster](https://threatcluster.io/)**
+**[The Hacker News](https://thehackernews.com/)** &nbsp;&nbsp;&nbsp;&nbsp; **[BleepingComputer](https://www.bleepingcomputer.com/)** &nbsp;&nbsp;&nbsp;&nbsp; **[ThreatCluster](https://threatcluster.io/)**
 
 ## 👤Threat Research
 
-**[Recorded Future](https://www.recordedfuture.com/research)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)**
+**[Recorded Future](https://www.recordedfuture.com/research)** &nbsp;&nbsp;&nbsp;&nbsp; **[Palo Alto Networks Unit 42](https://unit42.paloaltonetworks.com/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/security-insider/threat-landscape)** &nbsp;&nbsp;&nbsp;&nbsp;; **[Google Threat Intelligence](https://cloud.google.com/security/products/threat-intelligence)**
 
 ## 👤Intelligence & IOC Feeds
 
-**[abuse.ch](https://abuse.ch/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
+**[abuse.ch](https://abuse.ch/)** &nbsp;&nbsp;&nbsp;&nbsp; **[CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)**
