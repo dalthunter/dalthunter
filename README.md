@@ -4,18 +4,23 @@
 
 ***
 ## 👤 Threat Actor Profiles
-**[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/)** ➜ Social Engineering & Identity Attacks
+**[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS) 
 
-**[ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/)** ➜ Data Extortion & Cloud Intrusions  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[FIN7](https://dalthunter.github.io/intel-reports/fin7/)** ➜ Financial Cybercrime & Enterprise Intrusions
+**[Scattered Spider](https://dalthunter.github.io/intel-reports/scattered-spider/)** ➜ Social Engineering & Identity Attacks 
 
-**[UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/)** ➜ Cloud Identity & Voice Phishing (Vishing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Lazarus Group](https://dalthunter.github.io/intel-reports/lazarus-group/)** ➜ Nation-State Cyber Operations
+**[ShinyHunters](https://dalthunter.github.io/intel-reports/shinyhunters/)** ➜ Data Extortion & Cloud Intrusions
 
-**[Volt Typhoon](https://dalthunter.github.io/intel-reports/volt-typhoon/)** ➜ Critical Infrastructure & Living-off-the-Land  
+**[FIN7](https://dalthunter.github.io/intel-reports/fin7/)** ➜ Financial Cybercrime & Enterprise Intrusions 
 
-**[TraderTraitor](https://dalthunter.github.io/intel-reports/tradertraitor/)** ➜ Cryptocurrency Theft & Supply Chain Attacks
+**[UNC6040](https://dalthunter.github.io/intel-reports/UNC6040/)** ➜ Cloud Identity & Voice Phishing (Vishing)
+
+**[Lazarus Group](https://dalthunter.github.io/intel-reports/lazarus-group/)** ➜ Nation-State Cyber Operations & Financial Theft 
+
+**[Volt Typhoon](https://dalthunter.github.io/intel-reports/volt-typhoon/)** ➜ Critical Infrastructure & Living-off-the-Land 
+
+**[TraderTraitor](https://dalthunter.github.io/intel-reports/tradertraitor/)** ➜ Cryptocurrency Theft & Supply Chain Attacks 
 
 **[Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/)** ➜ Callback Phishing & Data Extortion
-***
 ## 👤 MITRE ATT&CK Resources
 
 [**MITRE ATT&CK Enterprise Tactics**](https://attack.mitre.org/tactics/enterprise/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**MITRE ATT&CK Navigator**](https://mitre-attack.github.io/attack-navigator/)
