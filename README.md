@@ -20,7 +20,7 @@
 
 **[Luna Moth](https://dalthunter.github.io/intel-reports/luna-moth/)** ➜ Callback Phishing & Data Extortion
 ***
-## 🛡️ MITRE ATT&CK Resources
+## 🛡️ Resources
 
 [**MITRE ATT&CK Enterprise Tactics**](https://attack.mitre.org/tactics/enterprise/) 
 
