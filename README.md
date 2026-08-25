@@ -26,7 +26,7 @@
 
 [**MITRE ATT&CK Navigator**](https://mitre-attack.github.io/attack-navigator/)
 
-[**Windows Attack Command & Detection Reference**](windows-attack-command-reference.md) 
+[**Windows Attack Command & Detection Reference**](https://dalthunter.github.io/intel-reports/windows-attack-command-reference.md) 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e0cc5f2-3759-4284-b4d7-a3ea9963cee3" />
 
