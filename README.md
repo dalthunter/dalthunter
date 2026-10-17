@@ -24,7 +24,7 @@
 ***
 ## 🛡️ Resources
 
-[**MITRE ATT&CK Tactics**](https://attack.mitre.org/tactics/enterprise/)&nbsp;&nbsp;&nbsp;&nbsp;[**MITRE ATT&CK Navigator**](https://mitre-attack.github.io/attack-navigator/)&nbsp;&nbsp;&nbsp;&nbsp;v[**Windows Attack Commands**](https://github.com/dalthunter/intel-reports/blob/main/windows-attack-command-reference.md)&nbsp;&nbsp;&nbsp;&nbsp;[**TryHackMe**](https://tryhackme.com/)
+[**MITRE ATT&CK Tactics**](https://attack.mitre.org/tactics/enterprise/)&nbsp;&nbsp;&nbsp;&nbsp;[**MITRE ATT&CK Navigator**](https://mitre-attack.github.io/attack-navigator/)&nbsp;&nbsp;&nbsp;&nbsp;[**Windows Attack Commands**](https://github.com/dalthunter/intel-reports/blob/main/windows-attack-command-reference.md)&nbsp;&nbsp;&nbsp;&nbsp;[**TryHackMe**](https://tryhackme.com/)
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e0cc5f2-3759-4284-b4d7-a3ea9963cee3" />
 
