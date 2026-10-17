@@ -1,6 +1,6 @@
 <img src="./imessage-bubbles.svg" alt="typing bubbles" width="440" />
 
-## 👤 Recent Activity
+## 📰 Recent Activity
 [BleepingComputer](https://www.bleepingcomputer.com/)&nbsp;&nbsp;&nbsp;&nbsp;[The Hacker News](https://thehackernews.com/)&nbsp;&nbsp;&nbsp;&nbsp;[The Record](https://therecord.media/)      &nbsp;&nbsp;&nbsp;&nbsp;[Dark Reading](https://www.darkreading.com/) 
 ***
 ## 👤 Threat Actor Profiles
