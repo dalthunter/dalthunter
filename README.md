@@ -1,6 +1,6 @@
 <img src="./imessage-bubbles.svg" alt="typing bubbles" width="440" />
 
-## 👤 Updates
+## 👤 Recent Activity
 
 ***
 ## 👤 Threat Actor Profiles
