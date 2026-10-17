@@ -1,7 +1,10 @@
 <img src="./imessage-bubbles.svg" alt="typing bubbles" width="440" />
 
 ## 👤 Recent Activity
-......
+[BleepingComputer](https://www.bleepingcomputer.com/) 
+[The Hacker News](https://thehackernews.com/) 
+[The Record](https://therecord.media/) 
+[Dark Reading](https://www.darkreading.com/) 
 ***
 ## 👤 Threat Actor Profiles
 **[The Gentlemen](https://dalthunter.github.io/intel-reports/gentlemen/)** ➜ Ransomware-as-a-Service (RaaS) 
